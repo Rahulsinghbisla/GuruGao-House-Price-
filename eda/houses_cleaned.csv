@@ -1,0 +1,946 @@
+rate,property_type,area,bedRoom,bathroom,balcony,noOfFloor,facing,sector,society_name,Price,Study_room,Servant_room,Pooja_room,Other,age,feature_score,furnish_score
+20115,house,2609.99,5,4,3+,3,North-East,Sector 70A,bptp visionnaire,5.25,0,1,0,0,Newly House,10,13.0
+105751,house,539.0,5,4,2,2,,Sector 21A,,5.7,0,1,1,0,Mid,8,12.5
+38251,house,549.01,10,10,3+,5,West,Sushant Lok Phase,,2.1,0,1,0,0,Newly House,4,44.0
+43066,house,1161.01,21,21,3+,5,North,Sector 54,,5.0,0,1,0,0,Relatively New,10,176.5
+53763,house,558.0,12,12,3+,5,West,Sushant Lok Phase,,3.0,0,0,0,1,Under Construction,4,104.0
+39062,house,1152.01,20,20,3+,4,East,Sushant Lok Phase,,4.5,0,1,0,0,Relatively New,5,155.0
+37037,house,3240.0,5,5,3+,3,East,Sector 66,emaar mgf marbella,12.0,0,1,1,0,Newly House,22,31.5
+48889,house,4090.9,16,16,3+,4,,Dlf Phase,luxury dlf city floors,20.0,0,1,0,0,Newly House,6,143.5
+38150,house,2844.04,6,6,1,3,North-East,Dlf Phase,,10.85,0,0,0,0,Relatively New,21,24.0
+10077,house,1935.1,3,4,3+,4,West,Sushant Lok Phase,sushant lok,1.95,0,1,0,0,Newly House,11,60.0
+32963,house,1350.0,4,3,3+,2,West,Dlf Phase,,4.45,0,0,0,0,Mid,14,13.5
+27778,house,3239.97,6,7,3+,3,North,Dlf Phase,,9.0,1,1,1,0,Mid,10,0.0
+34083,house,1467.01,13,13,3+,4,North,Dlf Phase,dlf city plots phase,5.0,0,0,1,0,Newly House,17,191.0
+33200,house,4518.07,5,6,3+,3,North,Dlf Phase,,15.0,1,1,1,0,Mid,12,78.5
+30556,house,2699.96,5,6,3+,3,West,B Block Sushant Lok Phase,,8.25,1,1,1,0,Mid,9,56.5
+14914,house,1341.02,6,4,3,3,East,New Palam Vihar Phase,,2.0,1,0,1,0,Relatively New,7,33.0
+29861,house,3600.01,9,9,3+,3,South-West,Dlf Phase,dlf city plots phase,10.75,0,1,1,0,Old,9,8.0
+23333,house,900.01,7,7,3+,3,North-East,Sector 38,,2.1,1,0,1,0,Relatively New,4,0.0
+41762,house,1759.97,4,4,3+,3,South,Nirvana Country,unitech espace,7.35,0,1,1,0,Mid,9,39.0
+15451,house,2880.07,6,6,3,3,North,Uppals Southend,,4.45,1,1,1,0,Mid,26,72.5
+12938,house,2627.92,9,9,3,3,West,Sector 9,,3.4,0,0,0,0,Mid,9,60.5
+38095,house,3150.02,5,6,3+,3,North-East,Sector 66,emaar mgf marbella,12.0,0,1,0,0,Relatively New,27,29.5
+25926,house,3239.99,4,4,3,2,,Sector 48,,8.4,0,1,1,0,Old,4,35.5
+26235,house,3239.95,4,4,2,,East,Sector 48,vipul tatvam villa,8.5,0,1,1,0,Mid,22,4.0
+38760,house,1960.78,9,9,3,4,East,Dlf Phase,,7.6,1,0,1,0,Relatively New,13,81.0
+25926,house,2699.99,5,5,3+,3,North-East,Sushant Lok Phase,ansal sushant lok plots,7.0,1,1,1,0,Relatively New,8,113.5
+9374,house,5067.21,5,5,1,1,South-East,Sector 4,grover homes sec,4.75,1,1,1,0,Old,7,76.0
+13410,house,2609.99,9,9,3+,3,North-East,Sector 9,,3.5,1,0,0,0,Relatively New,4,9.0
+21124,house,2366.98,9,9,3+,3,North-West,Sector 40,,5.0,0,1,0,0,Mid,12,120.5
+32593,house,3239.96,5,5,3,3,,Nirvana Country,,10.56,0,1,0,0,Mid,3,0.0
+24170,house,2259.0,4,5,3+,2,East,Sector 67,ansal api esencia,5.46,1,0,1,0,Relatively New,16,52.0
+37037,house,2700.0,5,6,3,3,North,Dlf Phase,,10.0,0,1,0,0,Old,10,29.0
+28490,house,3159.0,10,10,3,3,East,Dlf Phase,,9.0,0,0,1,0,Old,10,51.5
+122222,house,818.18,4,4,3+,1,North-East,Hsiidc Plot Sector,,10.0,0,1,0,0,undefined,3,0.0
+13542,house,1439.96,2,2,2,2,,Sector 7,,1.95,0,0,0,0,Old,0,5.5
+19097,house,1728.02,4,4,2,3,South-East,Sushant Lok Phase,,3.3,0,0,0,0,Mid,9,32.5
+48148,house,2700.01,12,16,3+,4,North-East,Dlf Phase,floor wise designer kothi,13.0,1,1,1,0,Newly House,19,178.0
+22222,house,3240.03,3,3,2,1,North,Sector 15,,7.2,0,0,0,0,Old,10,0.0
+22222,house,2700.03,4,4,3+,3,East,Sector 28,suncity essel towers,6.0,1,0,0,0,Old,21,28.0
+33333,house,2700.03,5,5,3,3,North,Dlf Phase,,9.0,1,1,1,0,Old,9,0.0
+32222,house,1800.01,5,5,3+,2,North,Dlf Phase,,5.8,1,1,1,0,Old,11,0.0
+7290,house,755.97,2,1,1,1,East,Narsinghpur,sector,0.5511,0,0,0,0,Newly House,15,10.0
+27741,house,2699.97,12,12,3+,4,South-East,Sector 55,,7.49,1,1,1,0,Relatively New,10,47.0
+50000,house,2700.0,16,16,3+,4,North-West,Sushant Lok Phase,,13.5,1,1,1,1,Relatively New,8,0.0
+43534,house,2744.98,12,12,3+,4,West,Sector 56,,11.95,0,1,0,0,Relatively New,4,134.5
+45889,house,2699.99,16,18,3+,4,North-East,Sector 56,,12.39,0,1,1,0,Newly House,10,17.5
+34722,house,1800.01,5,5,3,2,East,Dlf Phase,nul,6.25,0,1,1,0,Mid,20,36.5
+20690,house,2609.96,4,5,3+,3,North,Sector 70A,bptp visionnaire,5.4,1,1,1,0,Relatively New,24,52.0
+29716,house,1934.98,4,4,2,2,North,C Block Sushant Lok Phase,,5.75,0,1,1,0,Old,5,0.0
+16378,house,1556.97,3,3,2,2,South,Palam Vihar,,2.55,0,0,0,0,Old,2,1.5
+17284,house,3239.99,8,6,3+,,South-West,Palam Vihar,,5.6,1,1,1,0,Mid,0,5.5
+37777,house,4500.09,5,8,3+,3,North-East,Greenwood City,,17.0,1,1,1,0,Relatively New,24,136.5
+12519,house,6382.3,4,6,3,2,South-East,Sector 112,experion windchants,7.99,0,1,1,0,Newly House,23,43.5
+25562,house,1467.02,6,6,3,3,East,Uppals Southend,uppal southend,3.75,0,0,0,1,Mid,9,0.0
+27971,house,2591.97,3,4,2,2,South,Sector 48,vipul tatvam villa,7.25,1,1,1,0,Mid,22,66.5
+21000,house,4000.0,4,5,3+,2,North,Sector 48,vipul tatvam villa,8.4,1,1,1,0,Mid,9,51.0
+24500,house,1448.98,4,4,3+,2,,Sector 55,,3.55,0,0,0,0,Old,4,38.5
+7058,house,3542.08,4,4,3+,3,East,Sector 91,dlf new town heights,2.5,1,1,1,0,Mid,18,50.5
+7058,house,3542.08,4,4,3+,3,East,Sector 86,dlf new town heights,2.5,1,1,1,0,Mid,25,55.0
+11250,house,8000.0,5,5,3+,3,North-East,Sector 111,puri diplomatic greens,9.0,0,1,0,0,Relatively New,22,20.0
+23333,house,900.01,3,3,2,3,North,Sector 40,,2.1,0,0,0,1,Mid,7,35.5
+20000,house,2250.0,5,5,1,1,,Sector 14,,4.5,0,0,0,0,Relatively New,0,0.0
+35400,house,1836.16,5,4,3+,3,South-East,C Block Sushant Lok Phase,,6.5,0,1,1,0,Mid,6,53.0
+40135,house,2367.01,12,12,3+,4,,Sector 40,,9.5,0,0,0,0,Newly House,7,23.5
+16244,house,3078.06,4,4,2,2,East,Sector 23,,5.0,0,0,0,0,Old,1,22.0
+21605,house,2545.71,4,4,3+,2,North-East,Sector 109,international city by sobha phase,5.5,0,1,0,0,Newly House,15,7.0
+10463,house,5399.98,4,4,3+,2,North-East,Sector 109,international city by sobha phase,5.65,0,1,0,1,Newly House,9,31.5
+41615,house,2114.62,4,4,3+,3,South-East,Sector 66,emaar mgf marbella,8.8,0,1,1,0,Relatively New,21,21.0
+14444,house,2250.07,3,3,2,2,South-East,Sector 4,,3.25,0,0,0,0,Old,4,15.0
+10101,house,4950.0,3,3,2,1,North-East,Sector 4,,5.0,0,0,0,0,Old,3,16.0
+38703,house,2700.05,4,5,2,3,North,Nirvana Country,,10.45,1,1,1,0,Mid,24,23.0
+22222,house,8775.09,5,6,3,2,North,Sector 48,vipul tatvam villa,19.5,1,1,1,0,Mid,24,57.5
+23148,house,3240.02,5,5,3+,2,East,Sector 82,,7.5,0,1,1,0,Relatively New,17,69.5
+8557,house,782.98,3,2,1,1,South,Laxman Vihar Phase,,0.67,0,0,1,1,Mid,3,0.0
+16428,house,3500.12,4,4,2,3,South-East,Sector 109,international city by sobha phase,5.75,0,1,0,0,Relatively New,24,15.0
+10556,house,5399.77,4,5,3+,3,East,Sector 109,international city by sobha phase,5.7,1,1,1,0,Relatively New,27,24.5
+13519,house,2367.04,3,3,2,1,East,Sector 9,,3.2,0,0,0,0,Old,6,30.0
+42032,house,2736.01,12,13,3+,4,West,Sector 56,,11.5,1,1,1,0,Relatively New,10,33.0
+24069,house,3194.98,4,5,3,2,North-West,Sector 48,vipul tatvam villa,7.69,1,1,1,0,Mid,24,51.5
+21605,house,3239.99,4,4,3+,1,North-East,Sector 82,,7.0,1,1,1,0,Relatively New,10,64.5
+13889,house,1115.99,2,2,2,1,East,New Colony,,1.55,0,0,0,0,Mid,7,40.0
+14650,house,2627.99,4,4,3,3,North-West,Sector 7,,3.85,0,0,0,0,Old,4,10.5
+13889,house,1439.99,2,2,2,2,North-West,Sector 7,,2.0,0,0,0,0,Old,3,23.0
+13778,house,2249.96,3,3,2,2,North-West,Sector 7,,3.1,0,0,0,0,Old,3,27.0
+15625,house,1440.0,3,3,2,2,North-West,Sector 7,,2.25,0,0,0,0,Old,4,42.0
+23333,house,3000.04,4,4,2,3,North-East,Nirvana Country,,7.0,0,1,0,0,Old,21,31.5
+21250,house,4000.0,4,5,3+,2,North,Sector 48,vipul tatvam villa,8.5,1,1,1,1,Mid,10,60.0
+38667,house,2249.98,4,5,2,3,East,Sector 66,emaar mgf marbella,8.7,1,1,0,0,Newly House,26,0.0
+26667,house,4687.44,5,6,3,3,East,Sector 109,international city by sobha phase,12.5,1,1,1,0,Relatively New,13,43.0
+12593,house,5399.83,4,5,3,2,North-West,Sector 109,international city by sobha phase,6.8,0,1,0,0,Relatively New,10,0.0
+26389,house,3599.98,7,6,3,3,West,Sector 109,international city by sobha phase,9.5,1,1,1,0,Relatively New,24,0.0
+12963,house,5399.98,5,6,2,2,West,Sector 109,international city by sobha phase,7.0,0,1,0,0,Relatively New,25,0.0
+25514,house,2430.04,5,5,2,2,South-West,Sector 109,international city by sobha phase,6.2,0,1,0,0,Relatively New,25,29.0
+24845,house,1448.98,5,5,3+,3,North-East,Sector 56,huda sector-,3.6,0,0,0,1,Mid,9,20.0
+17650,house,1728.05,5,5,2,2,North,Sector 17C,sector-,3.05,0,0,0,0,Old,6,24.0
+24280,house,2429.98,4,5,2,2,East,Sector 109,international city by sobha phase,5.9,0,1,0,0,Relatively New,16,28.0
+26423,house,2213.98,4,5,3+,2,East,Sector 109,international city by sobha phase,5.85,0,1,0,0,Relatively New,16,31.0
+6666,house,6000.6,4,4,3+,2,North-East,Sector 70A,bptp visionnaire,4.0,0,1,0,0,Relatively New,26,0.0
+8916,house,6000.45,4,4,3+,3,North,Sector 70A,bptp visionnaire,5.35,1,1,1,0,Relatively New,27,87.0
+36667,house,1799.98,6,7,3+,2,East,Dlf Phase,,6.6,1,1,0,0,Mid,19,56.0
+9000,house,7000.0,4,5,3+,2,West,Sector 109,international city by sobha phase,6.3,0,0,0,0,Relatively New,24,62.5
+20000,house,6000.0,5,6,3,2,North-East,Sector 109,international city by sobha phase,12.0,1,1,0,0,Relatively New,25,28.0
+9028,house,719.98,3,2,1,1,East,Rajendra Park,,0.65,0,0,1,1,Relatively New,2,0.0
+4074,house,1350.02,3,3,2,2,South,Laxman Vihar Phase,,0.55,0,0,0,1,Relatively New,2,16.0
+630,house,13492.06,3,3,1,1,North,Laxman Vihar Phase,,0.85,0,0,0,1,Relatively New,0,0.0
+86567,house,67.0,2,2,1,2,West,Laxman Vihar Phase,,0.58,0,0,1,1,Mid,1,4.5
+92857,house,70.0,1,1,1,1,South-East,Laxman Vihar Phase,,0.65,0,0,0,1,Mid,3,4.5
+100000,house,61.0,2,2,2,2,South-East,Laxman Vihar Phase,,0.61,0,0,0,1,Mid,2,6.5
+88157,house,76.0,3,3,2,2,South,Laxman Vihar Phase,,0.67,0,0,0,1,Relatively New,1,0.0
+29974,house,1935.01,6,6,3,2,South-West,Sushant Lok Phase,ansal sushant lok plots,5.8,0,1,0,1,Relatively New,10,36.5
+24691,house,2430.04,4,5,3+,2,North,Sector 109,international city by sobha phase,6.0,0,1,0,0,Relatively New,17,32.0
+2778,house,22498.2,9,9,3+,3,North-East,Sector 57,,6.25,0,1,0,0,Newly House,10,57.0
+46906,house,1503.01,18,18,3+,4,North-East,Sector 55,private house,7.05,0,0,0,1,Relatively New,8,200.0
+25000,house,1800.0,16,16,3+,4,South,Shivaji Nagar,,4.5,0,0,0,0,Relatively New,5,132.5
+23699,house,1557.03,4,4,2,2,East,Sector 31,,3.69,1,1,1,0,Mid,11,72.5
+25960,house,963.02,7,7,3,4,West,Sushant Lok Phase,,2.5,0,0,0,1,Relatively New,4,61.5
+28424,house,1934.98,1,1,No,1,South-West,Sushant Lok Phase,,5.5,0,0,0,1,Old,2,0.5
+33333,house,4500.05,4,4,2,2,West,Nirvana Country,unitech deerwood chase,15.0,0,1,0,0,Mid,27,9.5
+4490,house,15478.84,3,3,1,2,North-East,Nirvana Country,unitech aspen greens,6.95,0,1,0,0,Mid,27,6.5
+14729,house,3869.92,5,5,2,2,North-East,Palam Vihar,ansals palam vihar,5.7,0,0,1,0,Old,17,63.0
+25111,house,4500.02,7,5,3+,4,East,Sector 109,international city by sobha phase,11.3,1,1,1,1,Relatively New,10,0.0
+25000,house,4500.0,7,5,3+,4,North-East,Sector 109,international city by sobha phase,11.25,1,1,1,0,Relatively New,8,0.0
+7309,house,5500.07,4,4,3+,3,North-East,Sector 70A,bptp visionnaire,4.02,1,1,1,0,Relatively New,24,0.0
+10556,house,5399.77,4,4,3+,4,East,Sector 109,international city by sobha phase,5.7,1,1,0,0,Relatively New,21,12.0
+74074,house,135.0,9,7,3+,3,North,Dharam Colony,,1.0,0,0,1,0,Mid,1,0.0
+12000,house,550.0,3,1,1,3,East,Krishna Colony,,0.66,0,0,0,1,Relatively New,4,0.0
+10233,house,684.06,3,2,1,2,North-East,Laxman Vihar,huda ashok vihar phase,0.7,1,0,0,0,Newly House,1,0.0
+26852,house,540.0,3,3,1,,,Dlf Phase,,1.45,0,0,0,0,Old,2,0.0
+8878,house,1070.06,4,3,2,1,East,Ashok Vihar Phase,ashok vihar phase,0.95,0,0,0,0,Old,2,0.0
+14286,house,3149.94,9,9,3+,3,,Sector 9A,,4.5,1,0,1,1,Relatively New,7,75.5
+8928,house,1008.06,3,1,No,1,,Sector 3,,0.9,0,0,0,0,undefined,0,0.5
+8007,house,562.01,3,2,1,1,North-East,Hira Nagar,,0.45,0,0,0,0,Old,6,0.0
+11111,house,900.01,4,3,3+,4,North-East,Gopal Nagar,,1.0,0,0,0,1,Relatively New,0,3.5
+5698,house,1053.0,5,4,3+,2,North,Jat Colony,farrukhnagar,0.6,1,0,0,0,Relatively New,2,39.0
+28283,house,2474.98,7,7,3+,3,South-West,South City,,7.0,1,1,1,0,Mid,26,92.0
+24214,house,1623.03,19,17,3,4,North-West,Sector 17A,,3.93,1,1,1,0,Relatively New,16,0.0
+26613,house,1503.02,4,4,3+,2,,Sector 56,,4.0,0,0,0,0,Relatively New,5,30.5
+138888,house,54.0,2,1,No,1,,Kheri,,0.75,0,0,0,0,Old,0,0.0
+10000,house,900.0,6,4,3,3,North-East,Madanpuri,,0.9,0,1,0,1,Old,6,17.5
+7666,house,3587.27,7,7,3+,3,North-East,Dlf Phase,,2.75,0,0,0,1,Mid,0,38.0
+7407,house,675.04,5,4,3,3,South-West,Sohna Road,prem kunj,0.5,0,0,1,0,Relatively New,5,0.0
+8333,house,600.02,3,3,2,2,East,Dayanand Colony,,0.5,0,0,1,0,Mid,0,0.0
+4666,house,900.13,2,2,1,1,,Mohan Nagar,,0.42,0,0,0,0,Relatively New,0,0.0
+13333,house,450.01,3,3,No,3,,Rajendra Park,,0.6,0,0,0,0,undefined,0,0.0
+60000,house,80.0,2,2,No,02,South-East,Daulatabad,secter,0.48,0,0,0,0,Relatively New,3,0.0
+11111,house,450.0,5,3,3,3,,Ashok Vihar Phase,,0.5,0,0,0,0,Mid,0,0.0
+7778,house,449.99,2,2,1,2,East,Vishnu Garden,,0.35,0,0,0,0,undefined,0,0.0
+40775,house,980.99,4,3,2,2,,Dlf Phase,dlf city plots,4.0,0,0,0,0,Relatively New,0,36.5
+99173,house,242.0,8,4,2,2,,New Basti,,2.4,0,0,0,0,Old,4,0.0
+12222,house,1800.03,4,3,2,1,South,Shivaji Nagar,not applicable,2.2,1,0,1,0,Old,5,0.0
+6172,house,1782.24,8,8,No,1,,Manesar,,1.1,0,0,0,0,Newly House,0,0.0
+22222,house,3600.04,4,5,3+,1,North-East,New Colony,,8.0,1,1,1,0,Old,6,53.5
+9111,house,900.01,4,3,3,2,North,Sector 8,,0.82,0,0,0,0,Mid,2,10.5
+80357,house,112.0,3,3,No,2,,Ashok Vihar,,0.9,0,0,0,0,undefined,0,0.5
+4117,house,1700.27,4,4,1,2,,Maruti Kunj,,0.7,0,0,0,0,Mid,0,0.0
+7308,house,1299.95,5,3,No,1,,Laxmi Garden,,0.95,0,0,0,0,undefined,0,0.5
+8701,house,1494.08,4,4,2,1,East,Mohan Nagar,,1.3,0,0,0,0,Old,0,0.0
+8000,house,450.0,1,1,No,1,,Sector 9B,,0.36,0,0,0,0,undefined,0,0.5
+25926,house,1350.0,6,6,3,3,,Saraswati Vihar,housing board colony,3.5,0,0,0,0,Relatively New,0,0.0
+6666,house,1200.12,8,8,2,1,,Imt Manesar,,0.8,0,0,0,0,Relatively New,0,0.0
+2296,house,675.09,2,1,No,1,,Bhora Kalan,,0.155,0,0,0,0,Old,0,0.0
+8888,house,900.09,9,5,3+,3,,Near Nand Hospital,rajendra park sec,0.8,0,0,0,0,Old,0,9.0
+33333,house,1800.02,8,5,3+,3,,Dlf Phase,,6.0,0,0,0,0,Old,2,79.0
+12444,house,2250.08,10,7,3,1,,Shivpuri,shivpuri,2.8,1,1,1,1,Old,0,44.5
+9793,house,2808.13,4,4,3+,3,,Sector 92,ansal heights,2.75,1,0,1,0,Relatively New,0,0.0
+6250,house,2800.0,4,4,No,14,,Sector 76,ninex city,1.75,0,0,0,0,undefined,0,0.5
+8486,house,3653.08,5,5,3+,21,,Sector 72,spaze privy,3.1,0,0,0,0,Relatively New,0,0.5
+11717,house,990.01,5,4,2,1,North-East,Jyoti Park,,1.16,0,0,0,0,undefined,0,0.5
+7589,house,1120.04,3,2,2,1,,Sohna,signature global park,0.85,0,0,0,0,Under Construction,3,0.5
+13333,house,675.02,4,4,No,2,,Subhash Nagar,,0.9,0,0,0,0,undefined,0,0.5
+12592,house,270.01,2,2,2,3,West,New Palam Vihar,my home,0.34,0,0,0,0,Mid,4,8.0
+15384,house,3250.13,6,6,2,1,South,Palam Vihar,,5.0,0,0,0,0,undefined,0,3.5
+7843,house,459.01,2,2,1,1,North-East,Surat Nagar Phase,surat nagar phase,0.36,0,0,1,0,Mid,0,0.0
+22222,house,2250.02,3,3,3,1,South,Sector 14,,5.0,0,0,0,0,Mid,4,0.0
+23333,house,4071.49,5,7,3+,2,East,Sector 33,unitech uniworld resorts,9.5,1,1,1,0,Under Construction,16,0.0
+29336,house,2471.37,8,8,3+,0,North-East,Sector 56,,7.25,0,0,0,0,Mid,3,25.5
+10288,house,1458.01,3,3,No,,,Ashok Vihar,,1.5,0,0,0,0,Old,0,0.0
+11284,house,1152.07,3,2,1,3,,Sector 93,dlf gardencity enclave,1.3,0,0,0,0,Relatively New,0,0.0
+11029,house,3400.13,5,5,3+,3,,Sector 5,,3.75,0,0,0,0,undefined,0,0.5
+10277,house,360.03,4,3,2,3,East,Rajendra Park,rajendra park gurgaon,0.37,0,0,0,0,Relatively New,0,0.0
+6944,house,3240.21,10,10,2,1,East,Rajiv Nagar,,2.25,0,0,0,0,undefined,0,0.5
+8518,house,1350.08,5,3,2,2,North-East,Madanpuri,,1.15,0,0,1,0,Old,4,0.0
+10555,house,900.05,3,2,2,3,South-East,New Palam Vihar Phase,,0.95,0,0,0,0,Old,4,0.0
+11250,house,435.56,6,3,2,3,East,Arjun Nagar,,0.49,0,0,0,0,Mid,2,0.0
+557,house,26032.32,4,4,2,2,East,Ashok Vihar Phase I,,1.45,0,1,1,0,Mid,10,13.5
+8888,house,900.09,2,2,1,1,,Sector 5,house number b-,0.8,0,0,0,0,Old,0,0.5
+11852,house,1349.98,5,5,2,3,,Surya Vihar,,1.6,0,0,0,0,Relatively New,0,3.5
+8947,house,950.04,6,6,2,2,North,Block H Ashok Vihar Phase Iii Extension,,0.85,1,1,1,1,Relatively New,9,0.0
+39265,house,1782.76,5,5,2,3,North-East,Dlf Phase,,7.0,0,1,0,0,Relatively New,2,7.5
+6083,house,821.96,3,2,1,1,,Devilal Colony,,0.5,0,0,0,0,undefined,0,0.5
+230547,house,347.0,10,10,3+,1,North,Sector 38,,8.0,0,0,0,0,undefined,0,3.5
+8411,house,535.01,3,2,1,1,,Surya Vihar,,0.45,0,0,0,0,undefined,0,0.0
+32291,house,192.0,6,6,No,3,,Prem Nagar,,0.62,0,0,0,0,undefined,0,0.5
+41666,house,240.0,6,4,No,3,,Bhim Nagar,,1.0,0,0,0,0,undefined,0,0.5
+8889,house,4634.94,2,1,3+,,,Laxman Vihar Phase,,4.12,0,0,0,0,Mid,0,0.0
+7280,house,1304.95,7,6,3+,3,,Surat Nagar,,0.95,0,0,0,0,Old,0,7.0
+90000,house,50.0,5,3,No,1,,Gandhi Nagar,,0.45,0,0,0,0,undefined,0,0.5
+10089,house,446.03,5,3,2,3,,Khandsa,,0.45,0,0,0,0,Old,0,1.0
+8697,house,2150.17,3,4,No,12,,Sector 109,ats tourmaline,1.87,0,0,0,0,undefined,0,0.0
+8500,house,1000.0,1,1,No,1,,Ashok Vihar Phase,,0.85,0,0,0,0,undefined,0,0.0
+9333,house,450.02,5,3,2,2,,Ravi Nagar,,0.42,0,0,0,0,undefined,0,0.0
+8235,house,510.02,3,3,No,2,East,Maruti Kunj,bhawani enclave,0.42,0,0,1,0,Newly House,0,3.5
+13333,house,900.02,7,4,1,2,South-West,Rajendra Park,,1.2,0,0,0,1,Mid,2,15.5
+21667,house,2999.95,5,6,No,1,,Sector 50,,6.5,0,0,0,0,undefined,0,0.0
+20425,house,1835.99,4,4,3+,3,,Urban Estate,,3.75,0,0,0,0,Old,5,39.0
+5472,house,4568.71,3,2,1,,,New Palam Vihar Phase,,2.5,0,0,0,0,Old,2,0.0
+6944,house,3240.21,36,36,2,3,East,West Rajiv Nagar,,2.25,0,1,0,0,Mid,1,0.0
+57692,house,130.0,2,2,No,1,,Ashok Vihar Phase,,0.75,0,0,0,0,undefined,0,3.5
+60000,house,50.0,6,3,3,3,South,Surat Nagar Phase,,0.3,0,0,0,0,Mid,0,0.0
+3857,house,3500.13,5,3,3,3,East,Vishnu Garden,,1.35,0,0,0,0,undefined,0,3.5
+21759,house,2160.03,3,3,2,2,North,Sushant Lok Phase,,4.7,0,1,0,1,Old,8,0.0
+8333,house,720.03,4,2,1,0,East,Near Khandsa Road,"om nagar, sector-",0.6,0,0,0,1,Old,1,0.0
+7407,house,297.02,2,2,2,1,,Devilal Colony,,0.22,0,0,0,0,undefined,0,0.0
+75000,house,220.0,9,9,No,1,,Sheetla Colony,,1.65,0,0,0,0,Newly House,0,2.5
+10482,house,477.01,5,3,No,1,,Laxman Vihar,,0.5,0,0,0,0,undefined,0,0.5
+25386,house,906.01,6,6,No,0,,Farukhnagar,,2.3,0,0,0,1,Old,6,0.0
+8735,house,1431.02,10,6,3+,3,,Ravi Nagar,,1.25,0,0,0,0,Old,0,0.0
+9444,house,1800.08,1,1,2,1,,Mianwali Colony,project mianwali colony,1.7,0,0,0,0,undefined,0,0.0
+20000,house,3000.0,4,4,1,2,,Palam Vihar,,6.0,0,0,0,0,Relatively New,0,0.0
+18667,house,1499.97,4,4,No,2,,Sector 55,,2.8,0,0,0,0,undefined,0,0.0
+18889,house,1651.75,4,2,1,1,,Part,,3.12,0,0,0,0,Old,0,0.0
+2525,house,297.03,1,1,No,1,,Sohna,,0.075,0,0,0,0,Relatively New,0,0.0
+24306,house,1439.97,3,3,2,1,East,Sector 38,,3.5,0,0,0,0,Relatively New,0,0.0
+17695,house,1458.04,4,2,2,2,,Saraswati Vihar,project housing board colony,2.58,0,0,0,0,undefined,0,0.0
+21519,house,3950.0,4,4,3+,27,,Sector 63,dlf the arbour,8.5,0,0,0,0,undefined,0,3.5
+17817,house,2245.05,7,7,3+,4,,Lucknow,dlf garden city floors,4.0,0,0,0,0,Newly House,8,0.0
+2,house,7250000.0,4,3,3+,3,South,Pataudi Road,,1.45,0,0,0,0,Mid,0,0.0
+6173,house,971.97,8,3,2,3,,Surya Vihar,,0.6,0,0,0,0,Old,0,15.0
+55000,house,200.0,4,3,1,2,North-East,Ravi Nagar,,1.1,0,0,0,0,Old,0,0.0
+13888,house,1800.12,9,5,2,1,South-East,Subhash Nagar,,2.5,0,0,1,0,Old,2,0.0
+20323,house,1722.19,3,2,2,1,East,Sector 38,,3.5,0,0,0,0,Mid,0,0.0
+20359,house,1448.99,2,2,2,1,North,Sector 56,huda plots,2.95,0,0,0,0,Mid,6,9.5
+5833,house,1200.07,3,2,2,1,,Sector 105,,0.7,0,0,0,0,undefined,0,0.5
+11693,house,992.05,5,4,2,3,North-East,Jyoti Park,,1.16,0,0,0,1,Mid,6,9.5
+26667,house,5999.93,6,5,2,3,East,Dlf Phase,,16.0,0,0,0,0,Relatively New,0,0.5
+53125,house,1600.0,12,12,3+,4,North,Malibu Town,malibu towne,8.5,0,0,0,0,Newly House,23,89.0
+17900,house,5000.0,5,6,3+,4,,Sector 28,suncity essel towers,8.95,0,0,0,0,Mid,0,0.0
+39886,house,3510.0,9,9,3+,4,North,C Block Sushant Lok Phase,,14.0,0,1,0,0,Mid,1,0.0
+126865,house,67.0,5,2,2,1,,Bhim Nagar,"bhim nagar, sector",0.85,0,0,1,0,Old,7,0.0
+40909,house,330.0,4,5,No,3,,Jyoti Park,,1.35,0,0,0,0,undefined,0,3.5
+27155,house,4860.98,6,6,No,2,,Nirvana Country,,13.2,0,0,0,0,undefined,0,0.0
+14492,house,4140.22,9,9,3+,3,North-West,Sector 12,anamika enclave,6.0,0,0,0,0,Old,2,0.0
+14167,house,359.99,4,4,3,4,,Laxman Vihar,not applicable,0.51,0,0,0,0,Newly House,0,0.0
+11111,house,990.01,6,4,1,2,North,Laxman Vihar,,1.1,0,0,0,0,undefined,0,0.0
+13157,house,1900.13,5,5,3+,2,,Sector 37D,,2.5,0,0,0,0,Relatively New,0,0.0
+5888,house,900.14,2,2,No,1,,Baldev Nagar,,0.53,0,0,0,0,undefined,0,0.5
+11111,house,1800.02,2,2,1,2,,Shivpuri,,2.0,0,0,0,0,Relatively New,0,2.0
+7875,house,800.0,4,2,1,2,South-East,New Basti,,0.63,0,0,0,1,Old,1,0.0
+9654,house,8286.72,10,10,3+,4,,Sector 56,,8.0,1,1,1,0,Relatively New,15,180.0
+4808,house,935.94,1,1,No,1,,Rajiv Nagar,,0.45,0,0,0,0,undefined,0,0.0
+8222,house,450.01,2,2,1,1,,Vishnu Garden,,0.37,0,0,0,1,Mid,0,0.0
+11111,house,1548.02,6,3,1,2,,Acharya Puri,,1.72,0,0,0,1,Old,0,0.0
+3857,house,3500.13,10,6,3+,3,,Bhondsi,,1.35,0,0,0,0,Old,0,0.0
+50000,house,100.0,2,2,No,1,,Sector 105,,0.5,0,0,0,0,undefined,0,0.0
+11273,house,549.99,3,1,No,2,,Arjun Nagar,,0.62,0,0,0,0,undefined,0,0.0
+8000,house,10000.0,3,9,2,3,,Dlf Phase,,8.0,0,0,0,0,Newly House,0,0.0
+7627,house,2360.04,4,5,No,13,,Sector 92,,1.8,0,0,0,0,undefined,0,0.5
+5666,house,3000.35,4,4,3+,1,North-East,Sector 108,,1.7,0,0,0,0,undefined,0,3.5
+5000,house,1100.0,2,1,No,1,,Ashok Vihar Phase,,0.55,0,0,0,0,undefined,0,0.0
+5000,house,3000.0,6,1,No,1,,Ashok Vihar Phase,,1.5,0,0,0,0,Newly House,0,0.0
+6567,house,2360.29,3,2,No,1,,Sector 109,,1.55,0,0,0,0,undefined,0,3.5
+22068,house,145.01,2,2,No,3,,Garhi Harsaru,,0.32,0,0,0,0,undefined,0,0.5
+8386,house,2504.17,4,3,No,2,,Pratap Nagar,,2.1,0,0,0,0,undefined,0,0.5
+12444,house,4500.16,34,34,3+,4,,Manohar Nagar,manohar nagar,5.6,0,0,0,0,Newly House,0,61.5
+11111,house,585.01,4,2,2,,,Laxman Vihar,,0.65,0,0,0,0,Mid,0,11.5
+28674,house,558.0,4,6,1,3,,Arjun Nagar,,1.6,0,0,0,0,Relatively New,0,0.0
+9725,house,802.06,4,4,No,3,North-East,Vir Nagar,,0.78,0,0,0,0,undefined,0,0.5
+21111,house,450.0,2,1,1,3,,Madanpuri,,0.95,0,0,0,0,Newly House,3,9.0
+7500,house,5133.33,5,6,3+,6,,Sector 82A,vatika sovereign next,3.85,0,0,0,0,undefined,0,0.5
+10784,house,612.02,3,2,1,2,,Bhim Nagar,,0.66,0,0,0,0,Old,4,0.0
+12162,house,370.0,4,4,2,4,North,Surat Nagar,,0.45,0,0,0,0,Mid,1,57.5
+8910,house,953.98,1,2,No,1,,Hno,,0.85,0,0,0,0,Relatively New,0,0.0
+10518,house,1426.13,2,2,2,3,South-West,Sector 13,,1.5,1,0,1,0,Old,2,0.0
+19869,house,765.01,2,2,1,1,South-East,Sector 17A,,1.52,0,0,0,0,Old,4,6.0
+8796,house,1136.88,3,2,2,1,North,New Palam Vihar,,1.0,0,0,1,0,Old,0,0.0
+9722,house,1080.02,3,2,No,1,,Hira Nagar,,1.05,0,0,0,0,undefined,0,0.0
+7522,house,1130.02,3,3,No,1,,Laxman Vihar,,0.85,0,0,0,0,undefined,0,0.5
+5658,house,1025.1,4,2,1,2,East,Ram Nagar,,0.58,0,0,1,0,Old,1,0.0
+5000,house,900.0,3,2,No,1,,Baldev Nagar,,0.45,0,0,0,0,undefined,0,0.5
+24545,house,550.01,5,3,2,3,South-East,Block G Sector,,1.35,0,0,0,0,Old,4,4.5
+7701,house,908.97,2,2,No,1,North-East,Sheetla Colony,,0.7,0,0,0,0,Mid,5,28.0
+8235,house,1700.06,2,2,1,3,,Pratap Nagar,,1.4,0,0,0,0,Relatively New,0,0.0
+14072,house,3659.75,5,5,No,1,,Sector 39,,5.15,0,0,0,0,Relatively New,0,0.5
+26000,house,2500.0,5,5,No,4,,Sector 14,sector,6.5,0,0,0,0,Mid,0,0.0
+24305,house,1440.03,6,5,3,3,East,Sector 17,iffco nagar and,3.5,0,0,0,0,Old,9,0.0
+19286,house,6999.9,9,9,No,1,East,Dlf Phase,,13.5,0,0,0,0,Relatively New,0,0.5
+22634,house,2518.34,9,9,3+,3,North-East,Palam Vihar,,5.7,0,0,1,0,Mid,0,52.0
+26570,house,1242.0,1,1,No,,,Sushant Lok Phase,ansal sushant lok plots,3.3,0,0,0,0,Under Construction,0,0.0
+11111,house,1575.02,4,2,2,2,,Krishna Colony,,1.75,0,0,0,1,Old,6,2.5
+6410,house,1170.05,4,2,2,2,West,Sector 3,bhim garh kheri,0.75,0,0,0,0,Old,3,1.5
+133079,house,263.0,8,8,3+,3,South-East,Sector 12A,,3.5,1,1,1,0,Relatively New,10,78.0
+15257,house,603.0,4,1,No,1,,Sector 3,,0.92,0,0,0,0,undefined,0,0.5
+5778,house,899.97,3,2,2,2,,Farukhnagar,,0.52,0,0,0,0,Newly House,0,0.0
+6111,house,1800.03,8,4,3+,2,West,Laxman Vihar,,1.1,0,0,0,0,Old,1,0.0
+15625,house,480.0,4,4,2,1,,Sector 6,surendra homes dayanand colony,0.75,0,0,0,0,undefined,0,3.5
+78125,house,160.0,2,3,No,1,,Laxman Vihar,,1.25,0,0,0,0,undefined,0,0.5
+17955,house,2367.03,4,3,2,1,North-East,Sector 10A,,4.25,0,0,0,0,undefined,0,0.0
+7916,house,467.41,1,1,1,1,,Sector 3A,,0.37,0,0,0,0,Relatively New,0,0.0
+211111,house,270.0,4,4,No,1,,Sector 54,dlf the grove,5.7,0,0,0,0,undefined,0,3.5
+80000,house,100.0,13,6,3+,3,South,Surat Nagar,,0.8,1,1,1,1,Mid,0,0.0
+35000,house,600.0,3,2,1,3,,Sector 70A,,2.1,0,0,0,0,Newly House,0,0.5
+10000,house,1100.0,5,4,2,1,East,Ashok Vihar Phase,,1.1,0,0,0,0,undefined,0,0.0
+120000,house,50.0,5,3,2,3,North,Subhash Nagar,rk excelo,0.6,0,0,0,1,Mid,0,0.0
+22297,house,538.19,4,4,3+,4,West,Sohna Road,,1.2,0,0,0,0,Old,2,26.0
+125000,house,360.0,4,4,No,4,,Dlf Phase,,4.5,0,0,0,0,undefined,0,0.5
+8889,house,899.99,4,4,No,2,,Om Nagar,,0.8,0,0,0,0,Old,0,0.0
+73333,house,150.0,2,2,1,,,Bhawani Enclave,,1.1,0,0,0,1,Old,0,3.5
+11111,house,2700.03,4,4,No,1,,Garhi Harsaru,,3.0,0,0,0,0,undefined,0,0.0
+26235,house,3239.95,4,6,3,3,North,Sector 48,vipul tatvam villa,8.5,0,1,1,1,Old,10,0.0
+6790,house,1620.03,5,3,1,2,,Anand Garden,"anand garden, sector-",1.1,1,0,1,0,Old,0,0.0
+20833,house,360.01,7,4,3+,4,,Saraswati Vihar,,0.75,0,0,0,0,Mid,1,9.0
+315789,house,190.0,9,6,2,2,North-East,Jacobpura,,6.0,0,0,0,0,Old,0,0.5
+10224,house,802.03,4,4,No,2,,Arjun Nagar,,0.82,0,0,0,0,undefined,0,0.5
+3500,house,1000.0,1,4,1,1,,Gurgaon Faridabad Road,,0.35,0,0,0,0,Mid,0,0.0
+3285,house,3500.76,3,2,1,1,,Rajendra Park,,1.15,0,0,0,0,undefined,0,0.5
+74000,house,250.0,3,3,3,1,,Sector 67,ansal api esencia,1.85,0,0,0,0,undefined,0,0.0
+27139,house,3132.02,6,6,3+,3,East,Sector 63A,anant raj estates,8.5,0,0,1,0,Under Construction,5,0.0
+10000,house,900.0,4,5,3,3,West,Tekchand Nagar,,0.9,0,0,0,1,Newly House,2,11.0
+5555,house,900.09,2,1,2,1,,Ashok Vihar Phase,,0.5,0,0,0,0,Old,2,3.5
+23662,house,2430.06,4,4,2,4,North,Dlf Phase,,5.75,0,1,0,0,Under Construction,27,52.5
+17574,house,2645.95,5,5,3+,1,,Sector 53,,4.65,0,0,0,0,Mid,0,56.0
+13333,house,5400.14,4,4,3+,4,,Ansal,,7.2,1,1,0,0,Old,0,73.0
+10753,house,557.98,3,3,1,2,,Devilal Colony,,0.6,0,0,0,0,Relatively New,0,1.5
+9091,house,4949.95,4,5,2,2,East,Prem Nagar,,4.5,0,0,0,0,Old,0,0.0
+23557,house,551.85,5,2,1,3,South-West,Jacobpura Near Sadar Bazar,jacobpura gurugram,1.3,0,0,0,1,Old,0,20.0
+59259,house,540.0,14,14,3+,6,West,Dlf Phase,,3.2,0,0,0,0,Relatively New,3,143.0
+105263,house,57.0,3,3,1,2,,Laxman Vihar,,0.6,0,0,0,1,Old,0,4.5
+21195,house,920.03,3,5,3+,2,,Sector 104,hero homes,1.95,0,0,0,0,Mid,0,0.0
+151,house,82781.46,10,6,2,3,South-East,Prem Nagar,ganpati heights apartment,1.25,0,0,0,1,Old,2,5.5
+25103,house,2429.99,5,6,3+,2,,Sector 109,international city by sobha phase,6.1,0,1,0,0,Mid,8,0.0
+13889,house,360.0,5,3,3,3,,Bhim Nagar,,0.5,0,0,0,0,Old,0,6.5
+14954,house,1337.43,3,1,No,3,North,Manesar,,2.0,0,0,0,0,Mid,3,0.0
+23333,house,900.01,8,8,3+,4,South-East,Saraswati Vihar,housing board colony,2.1,0,0,0,1,Mid,8,33.5
+8784,house,1423.04,3,3,2,1,,Sector 89,smart world gems,1.25,1,0,0,1,Under Construction,0,0.0
+6500,house,1000.0,6,2,3,1,,Maruti Kunj,,0.65,0,0,0,0,undefined,0,0.0
+35494,house,3239.98,5,6,No,1,North-West,Nirvana Country,unitech espace,11.5,0,0,0,0,undefined,0,0.5
+11464,house,785.07,5,4,3,3,North-West,Rajiv Nagar,,0.9,1,1,1,1,Mid,0,0.0
+11718,house,640.04,5,4,3,2,,Laxman Vihar,not applicable,0.75,0,0,0,0,Mid,0,0.0
+11555,house,1125.05,3,3,1,2,North,Rajendra Park,,1.3,0,0,0,0,Mid,4,0.0
+50000,house,96.0,2,2,1,1,North-East,Surat Nagar,shree krishna homes,0.48,1,0,1,1,Newly House,8,11.0
+3874,house,1755.29,5,3,No,1,,Sector 3,,0.68,0,0,0,0,undefined,0,0.5
+7576,house,1979.94,7,2,No,1,,Sector 3,bhim garh kheri,1.5,0,0,0,0,undefined,0,0.0
+11556,house,1124.96,3,3,1,1,East,Rajendra Park,,1.3,0,0,0,0,undefined,0,0.0
+10753,house,557.98,2,2,1,1,North-East,Devilal Colony,,0.6,0,0,0,0,Mid,2,0.0
+20635,house,3149.99,4,4,3+,2,,Sector 14,sector,6.5,0,0,0,0,Mid,0,0.0
+10378,house,472.15,2,1,No,1,,Shivji Park Colony,,0.49,0,0,0,0,Old,1,0.0
+11888,house,900.07,2,2,1,1,,Patel Nagar,,1.07,0,1,0,0,Old,1,0.0
+17284,house,1215.0,6,6,3+,3,,Laxmi Garden,,2.1,0,0,0,0,Relatively New,3,3.0
+32258,house,1426.0,2,2,2,2,East,Sector 31,,4.6,0,0,0,0,undefined,0,0.0
+11111,house,900.01,3,4,2,2,,Ashok Vihar Phase,,1.0,0,0,0,0,Relatively New,0,0.0
+12222,house,900.02,6,4,1,1,South-West,Rajendra Park,,1.1,0,0,0,0,undefined,0,0.0
+16389,house,1799.99,4,3,2,3,North,Sector 69,tulip yellow,2.95,0,0,1,1,Newly House,18,98.0
+31506,house,1460.04,6,4,3+,3,East,Sector 31,huda housing board colony,4.6,0,0,0,1,Old,2,0.0
+9722,house,360.01,2,2,1,2,South-East,Ravi Nagar,,0.35,0,0,0,0,Old,0,0.0
+12820,house,1170.05,12,9,1,3,East,Laxmi Garden,laxmi garden sector-,1.5,1,1,1,1,Relatively New,15,38.0
+229885,house,435.0,8,10,3+,1,West,Dlf Phase,,10.0,0,0,0,0,undefined,0,0.5
+10000,house,5200.0,4,5,2,1,,Palam Vihar,ansal celebrity homes,5.2,0,0,0,0,undefined,0,3.5
+8889,house,449.99,1,1,No,1,,Laxman Vihar,,0.4,0,0,0,0,Mid,0,0.0
+12400,house,500.0,3,3,1,2,,Surat Nagar,shri shyam residency,0.62,0,0,0,1,Mid,1,32.0
+9259,house,540.02,5,3,2,3,West,Laxman Vihar Phase,,0.5,0,0,0,0,Old,0,0.0
+232,house,215517.24,6,5,3+,2,,Sector 50,,5.0,1,1,1,1,Newly House,0,14.5
+15257,house,603.0,4,4,3,4,East,Laxman Vihar Phase,,0.92,0,0,0,1,Mid,0,13.0
+218750,house,160.0,6,6,3+,3,North-West,Sector 17,,3.5,0,0,0,0,undefined,0,0.0
+54794,house,146.0,5,4,3,3,,Laxman Vihar,not applicable,0.8,0,0,0,0,Under Construction,0,0.0
+14245,house,1053.0,2,3,2,1,North,Sohna,,1.5,1,0,1,0,Newly House,15,47.5
+6367,house,3533.85,3,5,3+,10,South,Sector 103,,2.25,0,0,0,0,undefined,0,0.0
+37313,house,3618.04,5,6,3+,4,North-East,Dlf Phase,,13.5,0,0,0,1,Old,10,92.5
+90909,house,55.0,12,4,3,4,,Rajiv Nagar,,0.5,0,0,0,0,Old,3,0.0
+9444,house,1800.08,1,1,1,1,,Mianwali Colony,mian wali,1.7,0,1,0,0,Old,1,0.0
+5000,house,900.0,3,2,1,2,North-West,Baldev Nagar,,0.45,0,0,0,1,Old,2,8.0
+10122,house,1185.54,6,2,1,2,North-West,Rajendra Park,,1.2,0,0,0,0,Old,3,0.0
+10000,house,1800.0,4,3,1,1,North-East,Patel Nagar,,1.8,0,0,0,0,Old,3,12.0
+8642,house,1735.71,5,3,2,2,,Sector 67,,1.5,0,0,0,0,Newly House,0,0.5
+6481,house,540.04,2,2,No,1,North-East,Palam Vihar Extension,palam vihar extension west zone rwa,0.35,0,0,0,0,Newly House,0,0.0
+6707,house,820.04,2,2,1,2,South-East,Sector 3A,,0.55,0,0,0,0,Mid,0,0.0
+245398,house,175.23,13,13,3+,5,North-West,Sector 38,huda plot sector,4.3,0,0,0,0,Relatively New,2,164.5
+9259,house,432.01,1,1,1,1,,Laxman Vihar,not applicable,0.4,0,0,0,0,Mid,0,0.0
+11904,house,2520.16,4,4,No,3,North-East,Sector 67,,3.0,0,0,0,0,undefined,0,3.5
+9135,house,467.98,3,3,3,2,,Rajendra Park,row house,0.4275,0,0,0,0,Relatively New,0,1.5
+7111,house,450.01,2,3,1,1,North-East,Arjun Nagar,,0.32,0,0,0,0,Relatively New,0,0.0
+8012,house,586.62,2,1,1,1,East,Laxman Vihar Phase,,0.47,0,0,0,0,Mid,0,0.0
+183333,house,300.0,9,9,3+,3,South,Sector 52,ardee city,5.5,0,1,1,1,Mid,5,85.5
+12500,house,600.0,3,5,3,3,South-East,Madanpuri,madan puri,0.75,0,0,0,0,Mid,0,28.0
+10142,house,700.06,4,2,1,2,,Surat Nagar,,0.71,0,0,0,0,Newly House,0,0.0
+8444,house,450.02,2,2,1,1,,Mahalaxmi Garden,,0.38,0,0,0,0,Mid,0,0.0
+8125,house,4000.0,4,3,3+,20,,Sector 103,indiabulls centrum park,3.25,0,0,0,0,Under Construction,0,0.0
+14583,house,360.01,4,4,2,3,East,Jacobpura,jacobpura,0.525,0,0,0,0,Relatively New,0,0.0
+17037,house,1350.0,5,3,3+,3,North-East,Sector 7,huda flats,2.3,1,1,1,0,Old,5,4.0
+11538,house,1300.05,10,7,3,4,East,Rajiv Nagar,,1.5,0,0,0,0,Mid,0,0.0
+8730,house,1260.02,9,3,3,3,,Rattan Garden,rattan garden,1.1,0,0,0,0,Old,1,0.0
+12222,house,1104.57,5,5,1,3,,Mianwali Colony,,1.35,0,0,0,0,Old,6,0.0
+14444,house,900.03,6,4,2,3,North-East,Sadar Bazar,krishna palace,1.3,1,0,0,1,Mid,2,2.0
+11574,house,1080.01,5,5,1,2,South,Dayanand Colony,,1.25,0,0,1,0,Newly House,0,5.0
+26667,house,539.99,4,2,2,1,,Dlf Phase,dlf city plots phase,1.44,0,0,0,0,Old,2,0.0
+11111,house,450.0,2,2,2,2,West,Laxman Vihar,naman residency,0.5,1,1,1,1,Newly House,2,3.0
+8230,house,1215.07,9,7,3+,3,North,Palam Vihar Extension,,1.0,0,0,1,0,Mid,0,19.0
+13095,house,4200.08,9,9,3+,3,South,Sector 23A,,5.5,0,1,0,1,Mid,0,34.5
+30556,house,1799.97,4,3,3,2,North,Saraswati Vihar,housing board colony,5.5,0,0,1,1,Old,4,11.5
+11852,house,674.99,5,3,1,2,,Laxman Vihar,,0.8,0,0,0,0,Mid,0,12.5
+10000,house,900.0,7,4,3+,4,,Shakti Nagar,,0.9,0,0,0,0,Mid,1,0.0
+29311,house,1467.03,6,4,2,2,,Sector 47,,4.3,0,0,0,1,Mid,0,0.0
+11250,house,800.0,5,5,3,3,,Sector 11,sai kripa floors,0.9,0,0,0,0,Relatively New,0,0.0
+30384,house,1069.64,4,4,3,3,,Dlf Phase,,3.25,0,0,0,0,Old,3,0.0
+8444,house,450.02,1,1,1,1,North-West,Laxman Vihar,,0.38,0,0,0,0,Mid,0,0.0
+19818,house,1872.04,3,3,1,4,,Mianwali Colony,,3.71,0,0,1,0,Mid,0,11.0
+1992,house,65261.04,10,10,3+,1,,Dlf Phase,dlf city plot phase,13.0,0,0,0,0,undefined,0,0.5
+7619,house,525.0,2,2,1,1,,Palam Vihar Extension,,0.4,0,0,0,0,Relatively New,0,3.5
+98214,house,56.0,4,4,No,2,,Rajendra Park,,0.55,0,0,0,0,undefined,0,0.5
+13499,house,963.03,5,3,2,3,,New Colony,rattan garden,1.3,0,0,0,0,Old,0,0.5
+7820,house,959.08,2,2,3,1,,Sector 92,signature global city,0.75,0,0,0,0,undefined,0,0.5
+5555,house,540.05,1,1,2,1,,Sector-5,,0.3,0,0,0,0,Newly House,0,0.0
+4000,house,450.0,2,1,1,1,East,Damdma,,0.18,0,0,0,0,Relatively New,0,0.0
+14720,house,1052.99,2,3,2,1,North,Sohna,,1.55,1,0,1,0,Under Construction,10,54.0
+5664,house,564.97,5,1,No,1,,Garhi Harsaru,,0.32,0,0,0,0,undefined,0,0.0
+19753,house,2025.01,5,4,1,2,North-East,Sector 11,,4.0,0,0,0,0,undefined,0,3.5
+76000,house,50.0,2,2,2,1,,Rajendra Park,,0.38,0,0,0,0,undefined,0,3.5
+37037,house,3240.0,5,6,3+,3,East,Nirvana Country,unitech escape,12.0,0,0,0,0,undefined,0,0.5
+63492,house,1260.0,2,1,No,1,,Sector 31,project housing board colony,8.0,0,0,0,0,undefined,0,3.5
+9000,house,500.0,1,1,1,3,East,Sector 8,,0.45,0,0,0,0,undefined,0,0.0
+4444,house,2700.27,7,3,No,3,,Sector 11,,1.2,0,0,0,0,undefined,0,0.0
+2500,house,1600.0,4,2,2,1,East,Sector 6,bhim nagar society,0.4,0,0,0,0,undefined,0,0.0
+6667,house,1499.93,1,1,No,1,,Ashok Vihar Phase,,1.0,0,0,0,0,undefined,0,0.5
+3704,house,1349.89,5,2,No,2,,Gurgaon,,0.5,0,0,0,0,undefined,0,0.5
+12777,house,900.05,2,2,3,4,North,New Jyoti Park,,1.15,0,0,0,0,undefined,0,0.5
+6648,house,1052.95,3,3,No,1,,Laxman Vihar,,0.7,0,0,0,0,undefined,0,0.0
+11407,house,2700.1,6,4,2,1,,Shivaji Nagar,shivaji nagar residential,3.08,0,0,0,0,undefined,0,3.5
+20233,house,1458.01,2,2,No,1,North,Sector 56,,2.95,0,0,0,0,undefined,0,0.5
+17778,house,4499.94,6,5,3+,4,,Sector 33,unitech uniworld resorts,8.0,0,0,0,0,undefined,0,0.0
+20062,house,3239.96,4,3,No,2,,Sector 82,vatika india next,6.5,0,0,0,0,undefined,0,0.0
+11494,house,2610.06,7,7,No,3,,Sector 7,,3.0,0,0,0,0,undefined,0,3.5
+25543,house,3131.97,6,5,3+,4,East,Sector 52,raj villas,8.0,0,0,0,0,undefined,0,0.5
+12343,house,2227.98,6,6,2,2,,Sector 12A,,2.75,0,0,0,0,undefined,0,0.0
+16892,house,1331.99,5,3,No,2,,Sector 7,,2.25,0,0,0,0,undefined,0,0.0
+8000,house,1812.5,3,2,1,1,North,Gandhi Nagar,,1.45,0,0,0,0,Relatively New,0,0.0
+17500,house,2000.0,3,3,1,2,North-East,Lajpat Nagar,,3.5,0,0,0,0,undefined,0,3.5
+3904,house,2100.41,3,2,1,1,North,Sohna Gurgaon Road,,0.82,0,0,0,0,undefined,0,0.5
+14323,house,7330.87,5,4,3+,1,East,Sector 108,sobha city,10.5,0,0,0,0,undefined,0,0.0
+4222,house,900.05,3,3,3,3,,Jacobpura,,0.38,0,0,0,0,Relatively New,0,0.0
+181818,house,550.0,5,6,3,4,North-East,Sector 33,unitech uniworld resorts,10.0,1,1,0,0,Newly House,5,0.0
+75000,house,100.0,2,3,2,3,,Mahavir Pura,mahavir pura,0.75,0,0,0,0,Old,0,0.0
+26620,house,1728.02,7,6,3+,4,,Malibu Town,,4.6,0,0,0,0,Mid,9,57.0
+5555,house,900.09,2,1,2,1,,Sohna Road,,0.5,0,0,0,0,Mid,0,0.0
+10000,house,7000.0,10,11,3+,4,South-East,Sector 39,,7.0,0,0,1,0,Relatively New,3,155.0
+9722,house,360.01,2,1,No,,,Jacobpura,jacob pura,0.35,0,0,0,0,Old,0,0.0
+9500,house,1000.0,5,3,2,2,West,Sector 37B,,0.95,0,0,1,0,Relatively New,0,0.0
+17937,house,892.01,1,1,2,2,,Sector 39,,1.6,0,0,0,0,Old,8,0.0
+3254,house,891.21,2,1,No,0,West,Garhi Harsaru,,0.29,0,0,0,0,Old,0,0.0
+5333,house,450.03,2,2,No,2,North,Bhondsi,"nirmal enclave, maruti kunj road",0.24,0,0,0,0,Relatively New,0,0.0
+30556,house,1832.7,4,3,3+,3,South-West,G Block Dlf City Phase,,5.6,0,0,0,0,Mid,6,16.5
+4583,house,1200.09,2,2,No,2,North-East,Manohar Nagar,,0.55,0,0,0,0,undefined,0,0.0
+12500,house,4000.0,6,4,No,3,,Palam Vihar,ansals palam vihar,5.0,0,0,0,0,undefined,0,0.5
+21875,house,822.86,1,1,2,3,North-East,Sector 39,,1.8,0,0,0,0,Relatively New,0,0.0
+16667,house,899.98,9,3,3+,3,,Gurgaon,,1.5,0,0,0,0,undefined,0,0.5
+7075,house,1484.1,3,3,3,3,South-East,Park View,ansal esencia sovereign floors,1.05,0,0,0,0,undefined,0,0.5
+8078,house,2228.27,8,5,2,1,South,Shakti Nagar,,1.8,0,0,0,0,undefined,0,0.0
+4251,house,1035.05,3,2,1,1,,Bhondsi,,0.44,0,0,1,1,Relatively New,7,0.0
+17584,house,472.02,5,3,2,3,East,New Colony,rattan garden,0.83,0,0,0,0,undefined,0,0.0
+5397,house,1297.02,2,2,2,14,North-East,Sector 89,greenopolis,0.7,0,0,0,0,undefined,0,0.5
+9074,house,1080.01,9,4,3,1,South,Palam Vihar Extension,,0.98,0,0,0,0,undefined,0,0.0
+5583,house,6000.36,6,5,3+,3,South,Sector 48,vipul world,3.35,0,0,0,0,undefined,0,0.5
+3519,house,1349.82,3,4,No,3,,Laxman Vihar,,0.475,0,0,0,0,undefined,0,0.5
+11194,house,1072.0,5,4,2,3,,Jyoti Park,,1.2,0,0,0,0,undefined,0,0.5
+100000,house,900.0,10,5,3+,4,,Rajiv Nagar,,9.0,0,0,0,0,Old,0,7.0
+6981,house,4426.3,5,5,3+,14,East,Sector 72,spaze privy,3.09,0,1,0,0,Relatively New,11,45.5
+6702,house,4700.09,4,5,No,12,East,Sector 103,satya the hermitage,3.15,0,0,0,0,undefined,0,0.0
+9444,house,1800.08,3,3,No,1,,Sector 12A,,1.7,0,0,0,0,undefined,0,0.5
+10556,house,4499.81,6,7,No,4,,Sector 1,,4.75,0,0,0,0,undefined,0,3.5
+18333,house,900.02,2,3,No,3,,Sector 9,,1.65,0,0,0,0,undefined,0,0.5
+4877,house,1742.87,4,4,3,4,,Sector 92,sare crescent parc royal greens phase,0.85,0,0,0,0,undefined,0,0.5
+7479,house,2674.15,4,3,No,1,North,Sohna Gurgaon Road,,2.0,0,0,0,0,undefined,0,0.5
+7400,house,1000.0,3,3,No,2,,Vishnu Garden,,0.74,0,0,0,0,undefined,0,0.0
+16003,house,1156.03,4,3,2,3,,Sector 1,,1.85,0,0,0,0,undefined,0,0.5
+8000,house,500.0,2,1,No,1,South,Ashok Vihar Phase,,0.4,0,0,0,0,undefined,0,0.0
+9444,house,900.04,5,3,3,1,,Ashok Vihar Phase,,0.85,0,0,0,0,undefined,0,0.5
+9103,house,757.99,1,1,1,2,,Jyoti Park,,0.69,0,0,0,0,undefined,0,0.0
+7727,house,1100.04,2,2,No,4,North-East,Sector 6,anshul,0.85,0,0,0,0,undefined,0,0.5
+45710,house,2844.02,6,8,3+,,,Dlf Phase,,13.0,1,1,1,0,Relatively New,0,95.0
+8702,house,1608.83,2,2,1,2,North-East,Subhash Nagar,,1.4,0,0,0,0,Old,0,0.0
+5950,house,3025.21,5,5,3+,3,,Ravi Nager Basai Road,,1.8,0,0,0,0,Mid,0,0.0
+3500,house,2000.0,4,4,No,2,East,Begampur Khatola,,0.7,0,0,0,0,undefined,0,0.0
+9722,house,720.02,4,3,2,3,West,Dhankot,,0.7,0,0,1,0,Relatively New,2,7.5
+8889,house,2699.97,10,5,3,2,North,Shivpuri,shivpuri,2.4,1,1,1,0,Old,2,19.0
+26973,house,1241.98,1,1,No,1,East,C Block Sushant Lok Phase,,3.35,0,0,0,0,Old,2,0.0
+32407,house,2160.03,3,2,No,1,,Nirvana Country,,7.0,0,0,0,0,undefined,0,0.5
+13750,house,1200.0,1,1,No,1,,Sector 41,,1.65,0,0,0,0,undefined,0,0.5
+6000,house,1000.0,1,1,No,1,,Sector 3A,,0.6,0,0,0,0,undefined,0,0.5
+14890,house,1631.97,4,4,2,3,South-West,Shivpuri,,2.43,1,0,1,0,Old,7,0.0
+9210,house,3800.22,1,1,No,1,,Sector 3,,3.5,0,0,0,0,undefined,0,0.0
+6800,house,500.0,1,1,No,1,,Sector 110,,0.34,0,0,0,0,undefined,0,3.5
+10518,house,713.06,6,4,1,3,,Sector 6,,0.75,0,0,0,0,Mid,12,7.5
+7333,house,750.03,1,1,No,1,,Sector 3A,,0.55,0,0,0,0,undefined,0,0.5
+8101,house,864.09,4,2,No,2,North,Gandhi Nagar,,0.7,0,0,0,0,Old,1,0.0
+6944,house,9000.58,3,3,No,1,,Sohna Road,,6.25,0,0,0,0,Mid,0,0.0
+14184,house,846.02,4,4,2,2,North,Jacobpura,,1.2,0,0,1,0,Relatively New,1,24.0
+4260,house,1150.23,2,2,1,3,,Sohna Road,,0.49,0,0,0,0,Newly House,0,0.0
+10582,house,1890.0,10,10,3,3,,Rajiv Chowk,hans enclave,2.0,0,0,0,0,Mid,0,0.0
+9390,house,394.04,1,1,No,3,,Devi Lal Colony Gali No,,0.37,0,0,0,0,Mid,0,0.0
+84000,house,50.0,5,3,2,3,,Sector 86,ss omnia,0.42,0,0,0,0,Relatively New,0,0.0
+6938,house,1081.0,3,1,No,1,,Sector 36,,0.75,0,0,0,0,undefined,0,0.5
+15555,house,2250.08,10,1,No,1,,Sector 11,,3.5,0,0,0,0,Newly House,0,0.5
+33333,house,1350.01,5,5,3+,2,,Dlf Phase,,4.5,0,0,0,0,Old,1,0.0
+7539,house,1538.67,1,1,No,1,,Sector 37D,,1.16,0,0,0,0,undefined,0,0.5
+10000,house,900.0,3,4,3,3,,Ashok Vihar,,0.9,0,0,0,1,Mid,7,29.0
+10067,house,745.01,2,2,2,11,North-East,Sector 76,suncity avenue,0.75,0,0,0,0,Under Construction,8,0.0
+1649,house,788.36,1,1,No,0,North-West,Alipur,,0.13,0,0,0,0,Relatively New,0,0.5
+10000,house,960.0,7,4,2,3,,Sector 5,sheetla enclave,0.96,0,0,1,0,Mid,0,13.0
+10000,house,1350.0,5,5,3+,4,,Sohna Road,sneh vihar,1.35,0,0,0,0,Relatively New,0,0.0
+13000,house,500.0,2,1,1,3,East,Laxman Vihar,not applicable,0.65,0,0,0,0,Mid,1,0.0
+28898,house,3806.49,8,11,3+,3,East,Dlf Phase,,11.0,1,1,1,1,Old,9,66.0
+28200,house,6390.07,9,12,3+,3,North-East,Sector 60,adani brahma samsara,18.02,0,1,0,0,Relatively New,23,53.5
+7168,house,917.97,2,2,3,4,,Sector 36,,0.6579999999999999,0,0,0,0,Newly House,0,0.0
+20444,house,2250.05,1,1,No,1,,Sector 14,,4.6,0,0,0,0,undefined,0,0.0
+35185,house,540.0,3,3,3+,3,,Sushant Lok Phase,,1.9,0,0,0,0,Old,0,39.0
+6289,house,2385.12,3,3,2,1,,Sector 63,signature global city,1.5,0,0,0,0,Newly House,0,0.5
+17857,house,1400.01,5,4,3,1,East,Shivaji Nagar,,2.5,0,0,0,0,Old,0,0.0
+7000,house,1000.0,2,2,1,5,North-East,Daulatabad,,0.7,0,0,0,0,undefined,0,3.5
+14166,house,600.03,5,5,3+,4,,Dwarka Expressway Gurgaon,rattan vihar rajendra park,0.85,0,0,0,0,Newly House,0,0.0
+30968,house,645.83,9,9,3,11,North,Sector 54,suncity township,2.0,0,1,0,0,Relatively New,1,98.5
+7777,house,900.09,1,1,No,1,,Palam Vihar Extension,,0.7,0,0,0,0,undefined,0,0.5
+18658,house,477.01,5,3,2,2,East,New Colony,,0.89,0,0,0,0,Old,2,0.0
+10484,house,763.07,1,1,No,1,,Sector 69,,0.8,0,0,0,0,undefined,0,3.5
+160000,house,100.0,3,2,2,41,,Golf Course Road,,1.6,0,0,0,0,Relatively New,0,0.0
+8127,house,1095.12,1,1,No,1,,Sector 81,,0.89,0,0,0,0,undefined,0,0.5
+5000,house,2680.0,1,1,No,1,,Sector 108,,1.34,0,0,0,0,undefined,0,0.5
+8000,house,2125.0,5,5,3,3,,Jacobpura,,1.7,0,0,1,1,Mid,2,8.0
+7555,house,450.03,1,1,1,1,,Sector 39,,0.34,0,0,0,0,undefined,0,0.0
+49500,house,2000.0,2,2,2,3,North,Rajendra Park,,9.9,0,0,0,0,undefined,0,0.5
+8889,house,449.99,7,4,3+,4,,Ashok Vihar Phase,ashok vihar phase iii extension,0.4,0,0,1,0,Newly House,1,12.5
+13030,house,1650.04,1,1,No,1,,Sushant Lok Phase,,2.15,0,0,0,0,undefined,0,0.5
+308333,house,60.0,8,8,3+,5,North-West,C Block Sushant Lok Phase,ansal,1.85,0,0,0,0,Relatively New,9,4.0
+8333,house,540.02,4,2,1,2,,Saraswati Enclave,,0.45,0,0,0,0,Relatively New,0,0.0
+10610,house,549.01,2,3,2,2,South-East,Sec,,0.5825,0,0,0,0,Relatively New,1,3.0
+18889,house,899.99,5,4,3+,3,East,Near Euro International School,,1.7,0,0,0,0,Mid,7,19.0
+7302,house,629.96,6,3,3,3,,West Rajiv Nagar,,0.46,0,0,0,0,Mid,0,0.0
+8155,house,980.99,5,4,1,2,,Sector 3,,0.8,0,0,0,0,Mid,0,0.0
+10591,house,550.0,2,3,2,2,South-East,Bhimgarh Kheri Phase,,0.5825,0,0,0,0,Relatively New,1,0.0
+24074,house,1080.0,4,4,3+,4,,Dlf Phase,,2.6,1,0,1,0,Relatively New,0,81.0
+14815,house,1349.98,5,5,2,3,East,Mianwali Colony,project mianwali colony,2.0,0,0,0,0,undefined,0,0.5
+5160,house,7500.0,19,17,3+,5,North-West,Sector 17A,,3.87,1,0,0,0,Relatively New,12,0.0
+144444,house,45.0,3,3,2,3,East,Huda Saraswati Vihar,,0.65,0,0,0,0,Old,3,22.0
+9615,house,2340.09,3,2,1,1,North-East,Acharya Puri,,2.25,0,1,1,0,Old,1,28.0
+9444,house,900.04,3,2,No,1,West,Sector 33,nitin vihar,0.85,0,0,0,0,Relatively New,2,0.0
+10101,house,1980.0,11,10,3,3,East,Rajiv Chowk,hans enclave,2.0,0,0,1,0,Old,4,0.0
+22222,house,4500.05,5,5,2,2,East,Sector 15,sector,10.0,0,0,0,0,Old,10,0.0
+32407,house,1080.01,5,4,3,3,North-West,Dlf Phase,,3.5,0,0,0,0,Old,3,0.0
+6813,house,807.28,2,1,1,1,,Laxman Vihar,,0.55,0,0,0,0,Mid,0,7.5
+15046,house,4320.09,3,2,3+,,,New Colony,,6.5,0,0,0,0,Old,2,0.0
+11583,house,1200.03,2,2,1,3,North-East,Dlf Phase,,1.39,0,0,0,0,Old,7,0.0
+6034,house,1160.09,3,3,No,1,North-East,Dharam Colony,,0.7,0,0,0,0,Relatively New,4,4.0
+10085,house,585.03,2,2,2,2,,Sector 8,,0.59,0,0,0,1,Mid,1,10.0
+17778,house,2249.97,5,5,2,3,,Sector 53,,4.0,1,0,0,0,Relatively New,4,0.0
+40611,house,3077.98,6,5,3,4,East,Sector 50,,12.5,1,1,1,0,Mid,5,64.5
+29630,house,539.99,7,5,3+,4,,Dlf Phase,u block dlf phase,1.6,0,0,0,0,Old,0,0.0
+29629,house,540.01,8,5,3+,4,East,Dlf Phase,dlf city plots phase,1.6,0,0,0,0,Old,2,19.0
+10740,house,2700.19,7,7,3,2,South-West,Mianwali Colony,,2.9,0,0,0,0,Old,1,0.0
+4444,house,900.09,6,4,2,2,West,Palam Vihar Extension,palam vihar extension west zone rwa,0.4,0,0,0,0,Mid,5,0.0
+17980,house,945.49,2,2,3+,3,,Sector 39,,1.7,0,1,0,0,Mid,7,11.5
+55000,house,1000.0,3,3,No,1,,Sohna Road,cloudnine cottages,5.5,0,0,0,0,Mid,0,0.0
+19737,house,3419.97,5,4,2,2,North,Uppals Southend,ss aaron ville,6.75,1,1,0,0,Old,11,0.0
+5093,house,10799.14,3,3,3+,2,West,Sohna Road,,5.5,1,1,1,1,Mid,9,9.0
+25463,house,1080.0,3,3,1,2,South-East,Sector 43,landmark house,2.75,0,0,1,0,Mid,4,0.0
+12000,house,225.0,2,2,1,2,North-East,Baldev Nagar,,0.27,0,0,0,0,Mid,2,6.0
+7007,house,999.0,2,3,1,1,North,Ashok Vihar Phase,,0.7,0,0,1,0,Relatively New,4,0.0
+8920,house,1065.02,10,10,3+,3,,Sohna Road,,0.95,0,0,0,0,Newly House,0,6.5
+35294,house,2295.01,5,5,2,4,East,Dlf Phase,,8.1,0,0,0,0,Old,9,0.0
+12963,house,5399.98,4,4,3+,2,West,Sector 109,international city by sobha phase,7.0,0,0,0,0,Relatively New,21,52.5
+8254,house,460.38,1,1,1,1,,Laxmna Vihar,,0.38,0,0,0,1,Relatively New,4,3.0
+5128,house,1170.05,7,3,1,2,North,Surat Nagar,,0.6,0,0,0,0,Mid,0,0.0
+5777,house,1125.15,2,2,1,1,North,Palam Vihar Extension,palam vihar extension west zone rwa,0.65,0,0,0,0,Mid,3,12.0
+15926,house,4520.91,4,4,2,1,,Sector 17B,,7.2,0,1,0,0,Old,3,0.0
+11111,house,1350.01,5,5,2,3,,Mianwali Colony,,1.5,0,0,0,0,Old,1,0.0
+14285,house,7000.35,5,7,2,4,East,Sector 50,nirvana country,10.0,0,1,0,0,Mid,1,80.5
+34307,house,4518.03,5,6,3+,3,East,Dlf Phase,dlf city plots phase,15.5,1,1,1,0,Mid,27,7.5
+51864,house,2843.98,16,20,3+,4,East,Dlf Phase,,14.75,1,1,1,0,Newly House,27,27.5
+44265,house,4518.24,16,20,3+,4,North-East,Dlf Phase,dlf city plots,20.0,1,1,1,0,Under Construction,27,65.5
+29444,house,3240.05,6,5,3+,3,North,Dlf Phase,dlf city plots phase,9.54,1,1,1,0,Under Construction,27,6.0
+39074,house,2700.01,5,6,3+,3,East,Dlf Phase,dlf city plots phase,10.55,1,1,1,0,Mid,24,7.5
+38734,house,4466.36,6,7,3+,3,North,Dlf Phase,dlf city plots,17.3,1,1,1,0,Newly House,24,35.5
+23442,house,1557.03,9,9,3+,3,West,Palam Vihar,,3.65,0,1,1,0,Newly House,18,98.0
+41833,house,4517.96,6,8,2,3,North-East,Dlf Phase,,18.9,1,1,1,0,Relatively New,21,72.5
+27778,house,3239.97,8,5,3+,3,,South City,,9.0,0,1,1,0,Old,5,15.5
+600000,house,400.0,5,5,2,1,North-East,Sector 54,emaar the palm springs,24.0,1,1,1,0,Old,23,57.5
+23889,house,900.0,3,3,3,3,,Sector 40,,2.15,1,0,1,0,Mid,10,18.0
+25000,house,900.0,6,3,3+,3,North-West,Sector 51,,2.25,0,0,0,0,Relatively New,7,16.0
+10260,house,7270.96,4,4,3+,2,East,Sector 112,experion windchants,7.46,0,1,1,0,Relatively New,16,30.0
+31915,house,2114.99,12,12,3+,3,West,Uppals Southend,uppal southend,6.75,0,0,0,1,Mid,10,0.0
+11102,house,539.99,8,4,3,3,West,Sector 105,,0.5995,0,0,0,0,Newly House,4,17.5
+8866,house,4500.34,4,5,3+,4,North-East,Nirvana Country,nirvana cedar crest,3.99,0,1,1,0,Newly House,19,24.5
+36911,house,1844.98,12,14,3+,,East,Sector 46,,6.81,0,1,0,1,Newly House,8,76.0
+36111,house,1800.01,5,5,3+,3,East,Dlf Phase,dlf city plots phase,6.5,1,1,1,0,Old,24,52.5
+15444,house,4500.13,4,4,3+,2,,Sector 17B,kothi,6.95,1,1,1,0,Old,6,0.0
+11240,house,6227.76,5,5,3+,2,South,Sector 109,international city by sobha phase,7.0,0,1,0,0,Relatively New,24,27.5
+15437,house,2494.01,3,3,3+,4,,Sector 63A,birla navya,3.85,0,1,0,0,Under Construction,27,41.0
+14351,house,2229.81,3,4,3,1,,Sector 82,vatika signature villas,3.2,1,1,1,0,Newly House,9,18.0
+27191,house,3240.04,8,6,3+,3,East,Malibu Town,malibu towne,8.81,1,1,0,1,Mid,5,39.5
+241666,house,60.0,4,4,3+,4,East,Sushant Lok Phase,,1.45,0,0,0,0,Relatively New,9,2.0
+32963,house,2700.0,4,4,3+,2,South-East,Dlf Phase,,8.9,1,1,1,0,Old,18,14.0
+33592,house,1934.98,9,9,3+,3,West,Dlf Phase,dlf city plots phase,6.5,1,1,1,0,Old,26,76.5
+24455,house,1836.03,9,9,3+,3,North-West,Sector 45,,4.49,0,0,0,1,Mid,13,71.5
+26667,house,8249.9,5,6,3,3,,Sector 48,vipul tatvam villa,22.0,0,1,0,0,Mid,14,39.0
+26389,house,3599.98,5,5,3+,2,South,Sector 109,international city by sobha phase,9.5,1,1,1,0,Relatively New,23,0.0
+194444,house,360.0,4,4,3+,3,North-East,Sector 82,vatika india next,7.0,0,1,0,0,Relatively New,23,73.5
+18444,house,2250.05,5,4,2,2,North-West,Sector 14,,4.15,0,0,0,0,Old,9,34.5
+11600,house,2500.0,4,4,3,2,,Ansal Plaza,,2.9,0,1,0,0,Relatively New,9,26.5
+38095,house,3150.02,5,6,3+,4,North-East,Sector 66,emaar mgf marbella,12.0,0,1,1,0,Newly House,6,28.0
+13492,house,6300.03,5,6,3+,10,East,Sector 72,tata primanti,8.5,1,1,1,0,Relatively New,26,37.5
+33951,house,3239.96,4,4,2,3,East,South City,,11.0,1,1,1,0,Newly House,7,29.0
+11157,house,1210.0,2,2,2,4,East,Sector-33,central park flower valley cerise floors,1.35,1,0,0,0,Newly House,24,25.5
+8444,house,2250.12,4,3,2,2,North-East,Laxman Vihar Phase,,1.9,0,0,1,0,Mid,6,18.5
+21495,house,1511.98,5,6,3+,4,East,Sector 56,,3.25,0,0,1,1,Relatively New,4,25.5
+42054,house,4518.0,6,6,3,2,East,Dlf Phase,dlf city plots,19.0,1,1,0,0,Relatively New,20,41.5
+1560,house,46794.87,9,9,2,3,North-West,Dlf Phase,,7.3,0,1,0,0,Relatively New,20,30.5
+20741,house,2699.97,6,4,3,3,East,Sector 55,,5.6,0,1,0,0,Old,8,44.0
+13178,house,1935.04,3,3,2,3,,A Block Sushant Lok Phase,,2.55,0,0,0,0,Relatively New,8,39.5
+12000,house,2000.0,3,3,2,2,North-East,Ansal Plaza,,2.4,0,0,1,0,Mid,9,0.0
+26428,house,7000.15,4,4,1,1,,Sector 48,vipul tatvam villa,18.5,0,0,0,0,Mid,9,12.5
+82540,house,3149.99,16,16,3+,4,North-West,Dlf Phase,,26.0,1,1,1,0,Newly House,12,195.5
+18888,house,900.04,2,1,2,2,East,Sector 10A,,1.7,0,0,0,1,Old,2,6.0
+31481,house,508.24,4,4,3,4,East,Sector 49,eros rosewood city,1.6,0,0,0,0,Newly House,5,10.0
+13501,house,3221.98,4,4,3+,2,North,Sector 103,satya the hermitage,4.35,1,1,1,0,Relatively New,24,34.0
+20988,house,3239.95,4,4,3+,3,North-East,Sector 82,vatika india next,6.8,0,1,0,0,Relatively New,24,84.5
+400000,house,250.0,12,12,3+,4,North,Dlf Phase,dlf city plots phase,10.0,1,1,0,0,Relatively New,17,169.5
+21296,house,2160.03,3,3,3+,2,North,Sushant Lok Phase,,4.6,0,1,1,0,Old,7,42.5
+34722,house,3600.02,4,4,3+,2,East,Sector 65,emaar emerald hills,12.5,1,1,0,0,Relatively New,0,21.0
+18626,house,1556.96,4,4,3,2,North,Palam Vihar,ansal api spanish court,2.9,0,0,0,0,Relatively New,13,29.5
+24366,house,11286.22,6,7,3+,3,North-East,Sushant Lok Phase,,27.5,1,1,1,1,Relatively New,9,75.0
+26298,house,3042.06,9,9,3,4,North-East,Sector 27,,8.0,1,1,1,0,Relatively New,24,113.5
+7500,house,3000.0,11,11,3+,5,West,Sushant Lok Phase,,2.25,0,0,0,1,Newly House,6,87.5
+24171,house,3438.0,5,6,3+,4,North-East,Sushant Lok Phase,,8.31,1,1,1,0,Old,8,0.0
+23000,house,2700.0,6,6,3+,4,North-East,Sushant Lok Phase,,6.21,1,1,1,0,Old,7,0.0
+29697,house,2475.0,6,4,3+,3,North-East,Greenwood City,,7.35,1,1,1,0,Old,8,34.5
+33333,house,1350.01,5,3,2,3,,Dlf Phase,dlf city plots phase,4.5,0,0,1,0,Old,5,19.5
+36111,house,1800.01,4,3,3,3,,Dlf Phase,,6.5,1,0,1,0,Mid,3,24.0
+6778,house,2699.91,4,4,2,4,East,Sector 67A,,1.83,0,0,1,0,Newly House,27,37.0
+22812,house,3221.99,4,5,2,2,South,Sector 48,vipul tatvam villa,7.35,1,1,1,0,Mid,26,44.5
+261194,house,402.0,4,4,2,2,East,Dlf Phase,dlf city plots phase,10.5,0,1,1,0,Old,13,35.5
+178571,house,154.0,3,3,1,2,North-West,Sector 49,eros rosewood villas,2.75,0,0,0,1,Old,15,18.5
+27461,house,2366.99,12,12,3+,4,North-West,Sector 46,,6.5,1,0,1,0,Relatively New,6,30.5
+31686,house,2366.98,9,9,3+,4,West,Dlf Phase,dlf city plots phase,7.5,1,1,1,0,Relatively New,27,94.5
+22222,house,3600.04,6,7,3+,51,North-East,Sector 67,ireo victory valley,8.0,1,1,1,0,Mid,10,124.5
+23061,house,2384.98,8,8,3+,3,,Sector 46,,5.5,1,0,0,1,Mid,6,34.5
+32222,house,1350.01,5,4,3,3,North,Dlf Phase,,4.35,0,1,0,0,Old,10,0.0
+17662,house,1557.02,3,3,3,2,,Palam Vihar,ansals palam vihar,2.75,1,0,1,0,Mid,3,21.5
+39841,house,4517.96,6,6,2,3,North,Dlf Phase,dlf city plots,18.0,0,1,1,1,Old,10,99.5
+37627,house,4518.03,5,6,3,2,North-West,Dlf Phase,dlf city plots,17.0,0,1,1,0,Old,17,37.5
+23148,house,1620.01,3,4,3,2,,Sector 57,ansal florence super,3.75,1,1,0,0,Mid,7,34.5
+29880,house,4518.07,5,5,3,2,East,Dlf Phase,dlf city plots,13.5,1,1,1,0,Old,24,34.0
+20068,house,2366.95,7,5,3+,3,South-West,Sector 22,,4.75,0,0,1,1,Old,11,10.0
+16569,house,3078.04,3,2,No,1,East,Sector 23A,,5.1,0,0,0,1,Old,6,6.0
+21242,house,1835.99,6,6,3+,3,North-East,Sector 38,,3.9,1,1,1,0,Mid,4,0.0
+11574,house,5400.03,4,4,3+,2,East,Sector 109,international city by sobha phase,6.25,0,1,0,0,Relatively New,25,27.5
+32562,house,3239.97,5,5,3,2,,Nirvana Country,,10.55,1,1,0,0,Mid,11,0.0
+13000,house,1546.15,3,3,3,4,North,Sector 61,smart world orchard,2.01,0,0,0,0,Under Construction,27,0.0
+22429,house,1449.02,4,4,3+,3,,Sector 31,,3.25,1,1,1,0,Mid,6,43.0
+39530,house,2339.99,12,12,3+,4,North-East,Sector 31,,9.25,0,1,1,1,Newly House,10,97.5
+22222,house,2700.03,5,4,3,3,North-East,Sector 70A,bptp visionnaire,6.0,1,0,0,0,Newly House,8,9.5
+38889,house,1350.0,4,4,3+,2,East,Dlf Phase,,5.25,0,1,1,0,Relatively New,13,52.0
+57206,house,4544.98,6,7,3+,2,North-East,Dlf Phase,dlf city plots,26.0,1,1,1,1,Newly House,23,90.5
+27222,house,2160.02,9,9,3+,3,East,Sector 50,unitech south city,5.88,1,1,1,1,Relatively New,20,112.0
+63554,house,83.0,2,1,1,1,East,Narsinghpur,,0.5275,0,0,0,0,Newly House,21,15.5
+10601,house,441.0,2,2,1,2,East,Laxman Vihar,,0.4675,1,0,0,0,Newly House,12,15.5
+20940,house,5850.05,5,7,3+,1,South-East,Sector 50,ss hibiscus,12.25,1,1,1,1,Relatively New,27,16.5
+32253,house,3240.01,5,7,3+,3,,Nirvana Country,unitech espace,10.45,1,1,1,1,Mid,26,16.5
+37037,house,3240.0,4,4,3+,3,East,Sector 66,emaar mgf marbella,12.0,1,1,1,0,Relatively New,27,94.5
+23704,house,2699.97,4,4,3,3,West,Sector 48,eldeco mansionz,6.4,0,1,0,0,Mid,27,54.5
+23693,house,1835.99,8,8,2,3,North-East,Sector 46,,4.35,1,0,1,0,Relatively New,3,24.5
+15989,house,1845.02,4,4,3+,2,North-West,Palam Vihar,,2.95,0,0,0,0,Old,4,18.5
+19268,house,1556.99,6,4,3+,3,South,Palam Vihar,,3.0,0,0,0,0,Old,4,34.0
+19360,house,594.01,3,3,2,2,South-East,Palam Vihar,,1.15,0,0,0,0,Old,4,19.5
+45833,house,1800.01,12,12,3+,4,North,Dlf Phase,luxury dlf city floors,8.25,0,1,0,0,Newly House,15,117.5
+29880,house,4518.07,5,5,2,2,East,Dlf Phase,dlf city plots,13.5,1,1,0,1,Mid,18,34.5
+23437,house,6400.14,5,5,3,2,West,Dlf Phase,nul,15.0,1,1,1,0,Mid,22,60.5
+2716,house,20250.37,8,7,3+,3,East,Sushant Lok Phase,,5.5,1,1,1,1,Mid,23,60.5
+39841,house,4517.96,5,4,3+,4,North,Dlf Phase,,18.0,1,1,1,0,Mid,19,38.0
+32222,house,1800.01,4,3,2,2,East,Dlf Phase,,5.8,0,0,0,0,Relatively New,3,2.5
+40850,house,3059.98,4,4,3+,2,West,Sector 50,ss hibiscus,12.5,1,1,0,0,Relatively New,27,68.0
+12342,house,2843.95,4,4,3,4,East,Dlf Phase,dlf floors phase,3.51,1,1,1,0,Under Construction,27,48.5
+15555,house,2250.08,6,5,2,3,North-East,Sector 5,,3.5,1,1,1,1,Old,26,58.5
+26111,house,3600.02,5,6,3+,2,North-East,Sector 109,international city by sobha phase,9.4,1,1,1,0,Relatively New,25,44.5
+31790,house,3240.01,5,6,3+,3,East,Nirvana Country,unitech espace,10.3,1,1,1,0,Mid,27,14.0
+24691,house,2430.04,4,4,3+,2,North-East,Sector 109,international city by sobha phase,6.0,1,1,1,0,Relatively New,26,0.0
+235376,house,359.0,3,3,2,2,North-East,Nirvana Country,unitech deerwood chase,8.45,1,1,0,0,Old,22,48.5
+29293,house,2474.99,9,8,3,4,South-West,South City,,7.25,0,1,0,0,Old,17,55.0
+16004,house,2499.38,3,3,2,2,East,Ansal Plaza,,4.0,0,1,0,0,Mid,19,23.0
+27333,house,2250.03,5,5,3+,3,West,Sector 109,international city by sobha phase,6.15,0,1,1,0,Relatively New,23,65.5
+17624,house,2610.08,4,4,3+,3,North,Sector 70A,bptp visionnaire,4.6,1,1,1,0,Mid,21,26.5
+38580,house,3240.02,4,5,2,2,North-East,Dlf Phase,dlf city plots,12.5,1,1,0,0,Mid,20,50.5
+27778,house,3599.97,4,5,3+,2,East,Sector 109,international city by sobha phase,10.0,1,1,1,1,Newly House,10,57.5
+35556,house,4499.94,5,6,3,2,North-East,Dlf Phase,,16.0,0,0,0,0,Old,0,31.5
+38580,house,3240.02,5,5,3+,2,North,Dlf Phase,,12.5,1,1,1,0,Old,15,34.5
+35000,house,4571.43,6,7,3+,3,East,Greenwood City,,16.0,1,1,1,0,Relatively New,14,58.0
+30864,house,3240.02,6,6,3+,4,North-East,Greenwood City,,10.0,1,1,1,0,Mid,11,57.0
+161849,house,173.0,5,5,3+,2,North-East,Ansal Plaza,,2.8,0,0,1,0,Old,13,34.5
+27778,house,2429.98,3,3,3,2,North-East,Dlf Phase,,6.75,0,0,0,0,Mid,4,0.0
+16056,house,1557.05,4,4,2,4,West,Palam Vihar,,2.5,0,0,0,0,Old,5,1.5
+17707,house,4517.99,12,4,3+,3,North,Mehrauli Gurgaon Road,,8.0,0,1,0,0,Old,6,8.5
+7718,house,3200.31,4,4,3+,,West,Sector 86,dlf new town heights,2.47,0,1,1,0,Mid,25,38.0
+25535,house,1448.99,8,8,2,4,North-East,B,,3.7,0,0,1,0,Newly House,10,14.5
+1859,house,98977.95,6,8,3+,4,South,Dlf Phase,,18.4,0,1,1,0,Relatively New,10,122.5
+17037,house,2700.01,6,6,3,3,East,Sushant Lok Phase,ansal sushant residency,4.6,1,1,1,0,Old,21,31.5
+10579,house,3450.23,6,6,2,3,North-West,Sushant Lok Phase,ansals florence villa,3.65,1,1,1,0,Mid,24,31.5
+42194,house,2844.01,4,5,3+,4,East,Dlf Phase,,12.0,0,1,1,0,Relatively New,8,15.0
+15625,house,2880.0,8,8,3,3,North-East,Uppals Southend,,4.5,1,1,1,0,Mid,27,74.5
+15278,house,2879.96,6,6,3,3,North,Uppals Southend,uppal southend,4.4,1,1,1,0,Mid,24,62.0
+201388,house,360.0,4,4,3,2,,Sector 48,vipul tatvam villa,7.25,1,1,1,0,Relatively New,23,47.0
+17187,house,576.02,4,4,3,4,,Malibu Town,,0.99,0,0,0,0,Relatively New,2,0.0
+44444,house,4500.05,5,7,3+,3,West,Dlf Phase,,20.0,0,1,1,0,Relatively New,14,116.5
+18928,house,1400.04,3,3,3,4,North-East,South City,dlf south city,2.65,0,1,0,0,Newly House,4,27.0
+10926,house,2699.98,4,4,2,4,East,Mayfield Garden,,2.95,0,1,0,0,Relatively New,10,38.5
+19608,house,1835.99,8,4,3,3,North,Sector 10A,,3.6,0,0,1,0,Mid,3,24.5
+8089,house,1570.03,3,3,3,4,East,Sector 37D,signature global city,1.27,0,0,1,0,Under Construction,21,0.0
+6849,house,1095.05,3,2,3,4,East,Sector 81,signature global city,0.75,1,0,0,0,Under Construction,22,0.0
+24691,house,2430.04,5,6,3+,3,East,Palam Vihar,,6.0,1,0,1,1,Old,8,83.0
+19607,house,3315.14,4,5,3,1,North-East,Sector 42,central park,6.5,1,1,1,0,Mid,18,31.5
+40000,house,4500.0,5,6,3+,3,North-East,Sector 66,emaar mgf marbella,18.0,1,1,1,0,Relatively New,26,100.0
+34846,house,3239.97,5,5,3+,2,,Nirvana Country,unitech espace,11.29,1,0,1,0,Mid,5,23.0
+31444,house,2700.04,3,3,2,4,North,B Block Sushant Lok Phase,,8.49,0,1,1,0,Relatively New,4,34.5
+26235,house,3239.95,4,4,1,,,Sector 48,vipul tatvam villa,8.5,0,0,0,0,Relatively New,3,19.5
+22222,house,2700.03,4,4,3+,2,East,Sector 48,eldeco mansionz,6.0,0,1,0,0,Mid,18,24.0
+23457,house,4049.96,5,5,3,2,,Sector 112,experion windchants,9.5,0,1,0,0,Relatively New,12,3.0
+27083,house,7200.09,8,9,3+,2,North,Palam Vihar,,19.5,1,1,1,0,Newly House,17,0.0
+43210,house,2429.99,12,12,3+,4,North-East,Dlf Phase,,10.5,0,1,1,0,Relatively New,13,153.5
+31926,house,1350.0,5,4,3,3,North,Dlf Phase,,4.31,0,0,0,0,Old,8,0.0
+38611,house,1800.01,12,12,3+,4,East,Sushant Lok Phase,,6.95,0,1,0,0,Newly House,14,8.5
+27911,house,3761.96,4,4,2,,North-East,Sushant Lok Phase,ansal sushant lok,10.5,0,1,0,0,Old,16,9.0
+29022,house,3617.95,5,5,3,3,East,Dlf Phase,,10.5,1,1,1,0,Mid,9,0.0
+12837,house,4518.19,4,4,3+,4,,Sector 26,,5.8,0,0,0,0,Old,8,0.0
+12198,house,3771.11,4,4,3+,,,Sector 26,,4.6,0,0,0,0,Old,5,0.0
+35741,house,3239.98,5,5,3,2,,Nirvana Country,,11.58,0,1,0,0,Mid,4,0.0
+16666,house,2400.1,4,4,3+,2,North-East,Palam Vihar,ansals palam vihar,4.0,0,1,0,0,Mid,0,3.0
+35556,house,4499.94,6,7,3,3,North-West,South City,nirvana country,16.0,0,1,1,0,Old,19,71.5
+9634,house,6227.94,5,5,3+,2,South-West,Sector 109,international city by sobha phase,6.0,1,1,1,0,Relatively New,26,0.0
+31481,house,2160.03,4,5,3,3,West,Nirvana Country,unitech aspen greens,6.8,1,1,0,0,Old,23,59.5
+7827,house,3194.07,4,5,3+,4,West,Sector 86,dlf new town heights,2.5,0,1,1,1,Mid,10,29.5
+38760,house,1934.98,12,12,3+,4,East,C Block Sushant Lok Phase,,7.5,1,1,1,0,Newly House,15,61.5
+23556,house,3599.93,4,6,3+,3,North-East,Sector 109,international city by sobha phase,8.48,1,1,1,0,Newly House,25,0.0
+10035,house,6228.2,5,7,3+,3,North-East,Sector 109,international city by sobha phase,6.25,1,1,1,0,Relatively New,24,0.0
+28841,house,3762.01,8,8,3,3,West,Sushant Lok Phase,sushant lok,10.85,1,1,1,0,Mid,27,86.0
+26615,house,1935.0,9,9,3+,3,East,Sector 47,,5.15,0,0,0,0,Relatively New,10,47.0
+24155,house,1448.98,4,4,3,2,North-East,Sector 31,,3.5,0,0,0,0,Old,14,37.0
+14815,house,2429.97,4,4,3,2,North-East,Sector 91,,3.6,0,0,0,0,Newly House,10,52.5
+22222,house,2700.03,4,5,2,2,,Sushant Lok Phase,ansals florence villa,6.0,0,1,1,0,Old,4,45.0
+62222,house,2250.01,4,5,3+,2,North,Sector 54,emaar the palm springs,14.0,1,1,0,0,Old,27,54.0
+6597,house,2425.34,4,4,3+,16,North,Sector 82,vatika the seven lamps,1.6,0,1,0,0,Mid,21,0.0
+7870,house,2160.1,3,3,3+,4,North-West,Sector 83,vatika india next,1.7,0,1,1,0,Newly House,0,18.0
+26852,house,2699.99,9,9,3+,2,North-East,Sushant Lok Phase,,7.25,0,1,1,1,Newly House,10,198.0
+28233,house,5490.03,5,6,3,3,East,B Block Sushant Lok Phase,,15.5,1,1,1,0,Mid,12,0.0
+15111,house,2250.02,3,3,3,1,North-West,Sector 14,,3.4,0,0,0,0,Old,6,0.0
+34722,house,3240.02,9,9,3+,2,North,Dlf Phase,,11.25,0,1,1,0,Mid,19,127.5
+19820,house,1664.98,4,3,3+,2,East,Sushant Lok Phase,ansals florence villa,3.3,1,1,1,0,Mid,26,0.0
+1087,house,50597.98,8,8,2,3,North-East,Mayfield Garden,,5.5,0,0,1,0,Relatively New,10,79.0
+31481,house,2700.04,5,5,3,3,West,Sushant Lok Phase,,8.5,0,1,0,0,Mid,22,38.5
+26235,house,3239.95,5,4,2,1,North-East,Greenwood City,,8.5,0,1,1,0,Mid,10,55.5
+36883,house,3239.98,3,3,2,1,West,Nirvana Country,unitech nirvana birch court,11.95,1,1,0,0,Mid,22,9.5
+37037,house,3240.0,3,4,2,1,East,Nirvana Country,unitech aspen greens,12.0,1,1,0,0,Mid,21,22.5
+27871,house,2332.17,4,4,3+,2,North-East,Sector 70A,bptp astaire gardens,6.5,1,1,1,0,Newly House,27,62.5
+35109,house,4842.06,5,8,3,3,North-West,Sector 73,dlf alameda,17.0,1,1,1,0,Relatively New,14,31.5
+17692,house,6500.11,7,8,3+,3,,Sushant Lok Phase,ansal sushant lok plots,11.5,0,1,1,0,Old,7,44.5
+38022,house,2367.05,12,12,3,4,North-West,Sector 40,independent house sector,9.0,0,1,0,0,Newly House,8,33.5
+33333,house,4500.05,4,4,3,3,,Dlf Phase,,15.0,0,1,0,0,Mid,7,28.0
+25309,house,3239.95,3,3,2,2,North,Sector 48,vipul tatvam villa,8.2,1,1,1,0,Mid,27,64.0
+16990,house,3243.08,3,3,2,4,South-West,Sector 14,sector,5.51,0,0,0,0,Mid,2,0.0
+14222,house,2250.04,3,3,2,2,,Sector 4,,3.2,0,0,0,0,Old,2,10.5
+22222,house,3600.04,6,7,3+,3,North-East,Sector 67,ireo victory valley,8.0,1,1,1,0,Mid,25,62.0
+16388,house,1800.1,3,3,3,2,North-West,Rosewood,,2.95,0,0,0,0,Mid,15,28.5
+22075,house,1268.4,3,3,2,2,East,Rosewood,,2.8,1,1,1,0,Mid,15,32.5
+11666,house,4500.26,9,9,3+,4,East,Sector 47,,5.25,0,1,0,0,Relatively New,25,29.5
+47167,house,1799.99,12,12,3+,4,North,Dlf Phase,,8.49,0,1,1,0,Relatively New,9,33.5
+7937,house,5480.66,4,4,3,2,North,Sector 81,bestech park view ananda,4.35,0,1,0,0,Relatively New,11,0.0
+20197,house,1727.98,4,4,2,3,South-East,Sushant Lok Phase,,3.49,1,1,1,0,Mid,10,39.5
+20635,house,1448.99,4,4,2,2,South,Sector 56,,2.99,1,1,1,0,Mid,10,28.5
+34037,house,2700.0,16,18,2,4,West,Sushant Lok Phase,,9.19,0,1,1,0,Newly House,10,42.5
+10123,house,1620.07,3,3,2,4,South,Sushant Lok Phase,,1.64,1,1,0,0,Newly House,11,23.5
+28858,house,3240.0,10,10,3+,4,North-East,South City,unitech palms south city,9.35,1,1,0,0,Mid,15,30.0
+28549,house,3240.04,9,9,3+,4,North,South City,unitech palms south city,9.25,1,1,1,0,Mid,14,70.5
+15555,house,1800.06,3,3,3,2,East,Sector 49,eros rosewood villas,2.8,0,0,1,0,Mid,12,13.0
+13513,house,1850.07,3,3,2,2,East,Sector 49,eros rosewood villas,2.5,0,0,1,0,Mid,11,17.0
+20769,house,1950.02,3,3,3,2,East,Sector 49,eros rosewood city,4.05,0,1,0,0,Mid,8,18.5
+34568,house,2429.99,4,4,3+,2,North-East,Dlf Phase,,8.4,0,1,1,0,Relatively New,26,35.0
+21097,house,2844.01,6,7,3+,3,East,V Block Dlf Phase,,6.0,1,1,1,0,Mid,21,54.5
+33951,house,3239.96,5,6,3+,2,North-East,Sector 66,emaar mgf marbella,11.0,1,1,1,0,Newly House,27,51.5
+24306,house,3599.93,5,5,3+,3,North-East,Sector 109,international city by sobha phase,8.75,1,1,1,0,Newly House,26,52.5
+25556,house,8999.84,4,4,3+,2,South-West,Dlf Phase,,23.0,1,1,1,0,Relatively New,25,50.0
+36111,house,1800.01,4,4,3+,2,North-East,Dlf Phase,,6.5,1,1,1,0,Mid,12,15.5
+7756,house,3158.84,4,4,3+,3,West,Sushant Lok Phase,sushant lok,2.45,1,1,1,1,Mid,22,78.5
+21825,house,2520.05,8,8,2,3,East,Ansal Plaza,,5.5,1,1,1,0,Mid,17,41.5
+12342,house,2843.95,4,4,3,4,North,Suncity,,3.51,0,1,0,0,Under Construction,13,0.0
+16577,house,5580.02,5,5,3+,4,North-East,Sector 57,satya the legend,9.25,1,1,1,0,Relatively New,27,64.5
+17706,house,3191.01,7,7,3+,2,West,Sector 23,,5.65,0,1,1,0,Mid,13,3.0
+29074,house,2700.01,9,9,3+,3,West,A Block Sushant Lok Phase,,7.85,1,1,1,1,Relatively New,10,111.5
+29880,house,4518.07,5,5,3+,2,North-East,Dlf Phase,,13.5,1,1,1,1,Relatively New,10,60.5
+42222,house,4500.02,6,8,3+,3,East,Dlf Phase,,19.0,1,1,1,0,Mid,15,71.5
+38194,house,1440.02,18,18,3+,4,South-West,Suncity,,5.5,0,1,0,0,Relatively New,14,344.5
+21605,house,1620.0,4,4,3+,3,South,Sushant Lok Phase,,3.5,0,0,0,0,Old,14,37.0
+38194,house,2160.03,4,4,3+,3,North-East,Sector 48,vipul tatvam villa,8.25,0,1,0,0,Relatively New,27,45.0
+37778,house,4235.27,4,4,3,1,,Dlf Phase,dlf city plots,16.0,1,0,1,0,Relatively New,1,0.0
+31111,house,8035.74,4,4,3+,2,North,Sector 54,suncity township,25.0,1,1,1,0,Mid,0,0.0
+17213,house,1556.96,4,3,2,3,,Palam Vihar,ansals palam vihar,2.68,0,0,0,0,Mid,17,25.5
+18620,house,1450.05,5,5,2,3,East,Sector 23,,2.7,0,0,0,0,Old,3,35.5
+17014,house,1351.83,4,4,3,2,East,Sector 4,,2.3,0,0,0,0,Old,6,28.5
+7750,house,1187.1,2,3,3+,3,North-East,Sector 70A,bptp pedestal,0.92,0,0,0,1,Newly House,27,9.0
+7172,house,1450.08,3,3,3+,2,North-East,Sector 70A,bptp astaire gardens,1.04,0,0,0,1,Relatively New,27,39.5
+29638,house,3323.44,5,5,2,3,West,A Block Sushant Lok Phase,,9.85,1,1,1,0,Old,4,0.0
+33333,house,4500.05,5,5,3+,4,,Sector 39,,15.0,0,1,0,0,Mid,4,52.5
+8137,house,1450.17,3,3,3+,2,North-East,Sector 70A,bptp astaire gardens,1.18,0,0,0,1,Relatively New,27,36.0
+7582,house,1187.02,2,2,3+,3,North-East,Sector 70A,bptp pedestal,0.9,0,1,0,1,Newly House,27,13.5
+48148,house,2700.01,3,3,3+,4,North,Sushant Lok Phase,sushant lok,13.0,0,0,1,0,Newly House,1,72.0
+18605,house,8116.1,5,5,3+,3,East,Sector 66,emaar mgf marbella,15.1,1,1,1,0,Newly House,24,0.0
+16066,house,5608.12,4,4,3+,3,North-East,Sector 66,emaar mgf marbella,9.01,0,1,0,0,Relatively New,22,0.0
+55556,house,3239.97,4,4,3+,3,East,Sector 66,emaar mgf marbella,18.0,1,1,1,0,Mid,18,123.5
+38986,house,3078.03,16,16,3+,4,,Sector 40,,12.0,1,1,1,0,Newly House,0,203.5
+24510,house,917.99,4,3,3,3,North-East,Sector 46,,2.25,1,0,0,0,Relatively New,11,12.0
+11428,house,7000.35,4,4,3+,2,West,Sector 33,unitech uniworld resorts,8.0,1,1,1,0,Old,17,0.0
+22184,house,2591.96,4,4,2,2,West,Sector 48,vipul tatvam villa,5.75,0,1,0,0,Mid,4,0.5
+30247,house,3239.99,4,4,3,2,North-West,Nirvana Country,unitech espace,9.8,0,1,0,0,Mid,4,2.0
+20370,house,2430.04,6,5,3+,3,West,Palam Vihar,,4.95,0,1,0,0,Relatively New,14,0.0
+31666,house,6000.13,5,6,3+,3,North-East,Sector 66,emaar mgf marbella,19.0,0,1,1,0,Relatively New,24,77.0
+18889,house,2641.75,4,4,3+,3,North,Palam Vihar,,4.99,0,1,1,0,Mid,9,6.0
+283333,house,250.59,3,3,3,1,East,Nirvana Country,unitech nirvana birch court,7.1,0,1,0,0,Mid,10,9.0
+31481,house,1350.02,5,5,3+,3,East,Sector 27,,4.25,0,1,1,0,Relatively New,10,76.0
+42222,house,2250.01,5,5,3+,2,North-East,Sushant Lok Phase,,9.5,0,1,1,0,Relatively New,18,69.5
+59259,house,2700.01,16,16,3+,4,West,Dlf Phase,,16.0,1,1,1,0,Newly House,13,199.0
+45833,house,1800.01,12,12,3+,4,East,Sector 27,,8.25,0,1,1,0,Newly House,8,35.5
+18008,house,2609.95,4,4,3+,3,North-East,Sector 70A,bptp visionnaire,4.7,0,0,0,1,Newly House,7,6.5
+26235,house,1619.97,5,5,3+,3,North-East,Sector 31,,4.25,0,0,1,0,Mid,10,48.5
+33333,house,1350.01,10,8,3+,4,East,Dlf Phase,,4.5,0,1,0,0,Relatively New,10,59.5
+12285,house,7000.41,4,5,3+,3,,Sector 72,tata primanti,8.6,0,0,0,0,Relatively New,7,44.0
+19293,house,4949.98,6,7,3+,2,East,Sector 33,unitech uniworld resorts,9.55,1,1,1,0,Relatively New,18,26.0
+20599,house,2403.03,7,7,3+,2,South,Sector 48,eldeco mansionz,4.95,1,1,1,0,Old,26,35.0
+173992,house,546.0,6,6,3+,3,North-East,Sector 33,unitech uniworld resorts,9.5,0,0,0,0,Mid,8,80.5
+21367,house,2340.06,7,7,3,2,North-East,Sector 48,eldeco mansionz,5.0,0,0,0,0,Mid,8,52.0
+20299,house,2340.02,7,7,3,2,North-East,Sector 48,eldeco mansionz,4.75,1,0,0,0,Mid,7,64.5
+41818,house,275.0,3,3,3,2,North-East,Malibu Town,malibu towne,1.15,0,0,0,0,Old,7,26.5
+9634,house,6227.94,4,5,3,2,North-East,Sector 109,international city by sobha phase,6.0,0,0,0,0,Mid,17,0.0
+19231,house,4679.94,5,5,2,2,North,Palam Vihar,ansals palam vihar,9.0,1,1,1,0,Old,24,51.5
+20833,house,1728.03,4,4,2,2,South,Sushant Lok Phase,,3.6,1,1,1,0,Old,24,0.0
+33333,house,2700.03,5,5,2,3,South-West,Dlf Phase,,9.0,1,1,1,0,Old,24,41.5
+6875,house,3200.0,12,12,3+,6,North,Sushant Lok Phase,,2.2,0,1,0,0,Newly House,7,157.0
+14667,house,2249.95,3,3,2,1,North-East,Sector 4,,3.3,0,0,0,0,Old,5,25.0
+14787,house,2366.94,5,4,2,2,North,Sector 5,,3.5,0,0,1,1,Old,8,0.0
+16319,house,1440.04,4,4,2,2,East,Sector 4,,2.35,0,0,1,0,Old,8,18.0
+18250,house,10000.0,7,9,3+,4,East,Dlf Phase,,18.25,1,1,1,0,Relatively New,12,14.0
+27390,house,1935.01,9,9,3+,3,East,C Block Sushant Lok Phase,,5.3,0,1,0,0,Mid,12,80.5
+30728,house,2033.98,7,7,3+,3,North,Sushant Lok Phase,sushant lok,6.25,1,1,0,0,Mid,11,0.0
+35000,house,1800.0,4,4,3+,2,East,Dlf Phase,dlf city plots phase,6.3,0,1,0,0,Old,14,0.0
+30556,house,1799.97,4,4,3+,2,East,Sector 26,dlf city phase,5.5,0,0,1,0,Mid,10,25.0
+41315,house,2844.0,4,5,3+,4,East,Dlf Phase,,11.75,1,1,0,0,Relatively New,9,84.0
+3786,house,5018.49,10,9,3+,3,North,Dlf Phase,dlf pink town house,1.9,0,0,0,1,Relatively New,6,114.0
+60000,house,1800.0,4,4,3,2,North,Nirvana Country,unitech escape,10.8,1,1,1,0,Relatively New,24,32.5
+24691,house,2592.04,3,4,3,2,North,Sector 48,vipul tatvam villa,6.4,1,1,0,0,Relatively New,24,46.5
+9349,house,1230.08,2,2,3,2,North,Sector-33,central park flower valley,1.15,1,0,0,0,Relatively New,16,34.5
+23504,house,2340.03,4,4,2,2,North,Sector 48,,5.5,0,1,0,0,Relatively New,8,30.0
+21605,house,1620.0,4,4,2,2,South-East,Sector 46,rwa sector,3.5,0,0,1,0,Relatively New,5,40.0
+234375,house,160.0,4,4,3,3,East,Sector 54,,3.75,0,1,0,0,Mid,3,22.0
+26235,house,1619.97,10,9,3+,4,North,South City,,4.25,1,1,0,0,Mid,6,40.5
+21786,house,1836.04,6,6,3+,4,North-East,Sector 38,,4.0,1,1,1,1,Old,25,86.5
+35000,house,9000.0,7,9,3+,3,North-East,Dlf Phase,arjun marg/ sector-,31.5,1,1,1,0,Mid,15,102.0
+8235,house,1700.06,3,3,2,3,North-West,Sector 82,vatika independent floors,1.4,0,0,1,0,Newly House,10,13.0
+15432,house,3240.02,4,4,3+,3,East,Sector 82,vatika signature villas,5.0,0,1,1,0,Relatively New,5,15.0
+37627,house,4518.03,5,5,3+,2,North-East,Dlf Phase,,17.0,1,1,1,0,Relatively New,16,37.5
+21251,house,4235.09,4,4,3+,,South-West,Sector 66,emaar mgf marbella,9.0,0,1,1,0,Relatively New,20,61.5
+30556,house,539.99,4,4,3+,4,West,Sushant Lok Phase,sushant lok,1.65,0,0,0,1,Mid,9,46.0
+27160,house,4050.07,5,6,3+,3,East,Sushant Lok Phase,the laburnum,11.0,0,1,1,0,Newly House,27,61.5
+35530,house,3095.98,5,5,3+,2,,Dlf Phase,,11.0,1,1,1,0,Relatively New,6,13.5
+22046,house,1700.99,3,3,1,2,South,Sector 49,eros rosewood city,3.75,0,0,1,0,Old,1,27.0
+22222,house,1530.02,6,6,3+,2,West,Sector 56,ansal sushant lok,3.4,0,0,0,0,Mid,6,46.5
+33333,house,1350.01,3,3,2,2,West,Dlf Phase,,4.5,0,0,1,0,Old,10,21.0
+27132,house,1934.98,4,4,2,2,,C Block Sushant Lok Phase,,5.25,1,1,0,0,Old,12,25.0
+22855,house,2844.02,4,4,2,2,,Dlf Phase,,6.5,0,0,1,0,Old,7,23.0
+40741,house,2699.98,4,4,3+,2,North,Nirvana Country,unitech espace,11.0,0,1,0,0,Mid,14,48.5
+34722,house,2160.01,3,3,2,2,West,Nirvana Country,unitech espace,7.5,0,1,0,0,Mid,13,33.0
+29333,house,3375.04,5,5,2,2,South-East,Dlf Phase,,9.9,0,0,1,0,Mid,14,31.0
+32328,house,2087.97,4,4,3,3,West,Uppals Southend,uppal southend,6.75,0,1,0,0,Relatively New,5,85.0
+290948,house,232.0,12,12,3+,,West,Uppals Southend,uppal southend,6.75,1,1,1,1,Mid,10,92.0
+25562,house,1467.02,6,6,3+,3,East,Uppals Southend,uppal southend,3.75,1,0,0,0,Mid,5,49.5
+12393,house,1170.02,4,4,2,2,North,Sector 15,,1.45,0,0,0,1,Old,2,0.0
+22331,house,1836.01,3,3,2,1,North-East,Sector 15,,4.1,1,0,1,1,Old,4,31.5
+20317,house,3150.07,6,6,3+,3,North,Sector 14,,6.4,0,0,0,1,Old,7,0.0
+18088,house,1934.98,6,4,2,2,West,Sector 14,,3.5,0,0,0,1,Old,5,32.5
+21759,house,2160.03,3,3,3+,3,,Sector 82,vatika signature villas,4.7,0,1,0,0,Newly House,7,0.0
+16600,house,4518.07,3,3,2,1,West,Sector 14,,7.5,1,1,1,0,Old,5,32.0
+21219,house,2592.02,3,6,2,2,North,Sector 48,vipul tatvam villa,5.5,0,1,0,1,Mid,22,39.0
+19125,house,4000.0,4,4,3,2,North-East,Sector 48,vipul tatvam villa,7.65,1,1,0,1,Mid,10,0.0
+18885,house,2727.03,5,7,3,2,East,Sector 48,eldeco mansionz,5.15,0,1,1,0,Mid,27,52.0
+15000,house,4500.0,5,4,2,2,North,Uppals Southend,ss aaron ville,6.75,0,0,0,1,Newly House,10,0.0
+37037,house,2700.0,5,5,3+,3,East,Dlf Phase,,10.0,0,1,1,0,Mid,7,52.0
+18814,house,4517.91,4,4,2,2,West,Sector 17B,,8.5,1,1,1,0,Old,4,37.5
+32328,house,2087.97,12,12,3+,3,North,Uppals Southend,uppal southend,6.75,1,1,1,1,Mid,10,104.5
+23457,house,4049.96,8,8,3,3,West,Sector 17,,9.5,1,0,0,0,Relatively New,5,72.5
+16975,house,3240.06,5,4,2,2,East,Sector 14,,5.5,1,0,0,0,Old,5,0.0
+18889,house,3419.98,5,5,2,3,East,Sector 14,,6.46,1,1,1,0,Mid,5,37.0
+14000,house,4000.0,5,4,3+,33,North-East,Sector 106,godrej meridien,5.6,1,1,1,0,Under Construction,25,7.5
+32407,house,3240.04,5,6,3+,3,,Dlf Phase,,10.5,1,1,1,0,Newly House,27,79.0
+266666,house,300.0,5,4,3,2,North,Sector 57,,8.0,1,1,1,0,Relatively New,4,8.0
+26502,house,2430.01,4,5,3+,3,North-East,Sector 109,international city by sobha phase,6.44,1,1,1,0,Newly House,24,0.0
+23148,house,3240.02,8,8,3+,3,North-East,Sector 56,,7.5,1,1,1,0,Relatively New,8,183.5
+32407,house,2160.03,4,4,2,2,East,Nirvana Country,unitech aspen greens,7.0,0,1,0,0,Old,5,9.0
+33951,house,3239.96,13,13,3+,3,East,Dlf Phase,,11.0,1,1,1,0,Relatively New,17,162.0
+18808,house,3455.98,5,5,2,2,North-East,Uppals Southend,ss aaron ville,6.5,1,1,1,0,Relatively New,5,70.0
+31481,house,2160.03,4,4,3+,2,South-East,Nirvana Country,unitech nirvana birch court,6.8,1,1,1,0,Old,22,4.5
+10838,house,6228.09,4,4,3+,2,North-East,Sector 109,international city by sobha phase,6.75,0,1,1,0,Newly House,23,0.0
+19847,house,2368.12,6,6,3+,2,West,Sector 22,saksham welfare association,4.7,0,0,1,0,Old,16,9.0
+23148,house,3369.62,4,4,3+,2,North-East,Sector 48,vipul tatvam villa,7.8,1,1,1,0,Relatively New,26,58.5
+12037,house,5400.02,4,4,3+,1,North-East,Sector 109,international city by sobha phase,6.5,0,1,0,0,Newly House,27,48.5
+17820,house,4769.92,5,5,3+,3,North,Sector 33,unitech uniworld resorts,8.5,1,1,1,0,Newly House,25,65.0
+24390,house,1845.02,6,6,3+,3,North-East,Sector 46,rwa sector,4.5,0,0,0,0,Mid,12,48.5
+35185,house,1264.74,4,4,3,3,West,Dlf Phase,,4.45,0,0,0,0,Old,4,18.0
+26063,house,1458.01,8,8,3+,4,East,Sector 57,sector,3.8,0,0,1,0,Relatively New,15,47.0
+79365,house,126.0,2,2,No,0,,Jyoti Park,,1.0,1,0,0,0,Old,2,4.5
+23932,house,584.99,8,8,3,4,East,Sector 38,sector,1.4,0,0,0,1,Mid,8,62.0
+24573,house,4679.93,5,6,3+,4,East,Sector 33,unitech uniworld resorts,11.5,0,1,0,0,Relatively New,13,25.0
+24005,house,1458.03,3,2,3,2,East,Sector 38,huda,3.5,0,0,0,0,Mid,13,27.0
+32870,house,2160.02,5,4,3,2,East,Nirvana Country,nirvana cedar crest,7.1,1,0,1,0,Mid,23,36.0
+33404,house,2843.97,9,9,3+,3,North-West,Dlf Phase,nul,9.5,0,0,0,1,Old,11,0.0
+23240,house,5055.94,5,7,3+,3,East,Sector 33,unitech uniworld resorts,11.75,0,1,0,0,Relatively New,12,0.0
+29630,house,1349.98,4,4,3,2,North,Dlf Phase,,4.0,0,0,0,0,Old,6,6.0
+16071,house,1400.04,3,3,3,4,South-East,Sector 52,ardee city,2.25,0,1,0,0,Newly House,4,30.0
+51440,house,2430.02,16,17,3+,4,South,Dlf Phase,nul,12.5,1,1,1,1,Relatively New,22,145.5
+26667,house,4124.95,5,6,3,3,,Sector 33,unitech uniworld resorts,11.0,1,1,0,0,Newly House,11,15.5
+28782,house,1493.99,9,9,3+,3,East,Sector 38,sector,4.3,0,0,1,1,Relatively New,8,91.0
+34491,house,2159.98,4,4,3,3,,Nirvana Country,unitech espace,7.45,0,1,0,0,Old,17,26.5
+34351,house,2160.05,4,4,3,2,West,Nirvana Country,unitech espace,7.42,0,0,0,0,Old,21,24.0
+47803,house,1935.02,12,12,3+,4,North-East,Sector 26,dlf city phase,9.25,0,1,1,0,Newly House,7,25.5
+6230,house,1926.16,3,2,2,3,,Sector 23A,,1.2,0,0,0,0,Newly House,14,17.5
+33665,house,1809.0,12,11,3+,4,West,Malibu Town,,6.09,0,0,1,0,Mid,9,102.5
+44444,house,1125.01,9,9,3+,5,East,Sector 55,,5.0,0,0,0,1,Newly House,9,110.5
+20566,house,1448.99,6,6,3+,3,East,Sector 17,iffco nagar and,2.98,1,0,1,0,Relatively New,13,0.0
+22222,house,1800.02,9,9,3+,2,East,Sector 38,huda floor,4.0,0,0,1,0,Relatively New,21,78.0
+26667,house,899.99,4,4,3,3,East,Sector 46,,2.4,0,0,0,0,Mid,7,35.0
+20349,house,1547.99,5,4,3+,2,North-East,Sector 57,,3.15,0,0,0,0,Mid,8,32.0
+23148,house,1836.01,5,4,2,3,North-East,Sector 46,,4.25,0,0,0,0,Mid,9,48.5
+21124,house,2366.98,9,9,3+,3,South-East,Sector 40,,5.0,0,0,1,0,Relatively New,11,62.0
+24202,house,909.02,3,3,2,3,North-West,Sector 46,,2.2,0,0,0,0,Old,9,29.5
+24155,house,1448.98,4,3,3,2,South-West,Sector 31,,3.5,0,0,0,0,Mid,13,46.5
+23870,house,2366.99,8,6,3+,3,South-West,Sector 46,,5.65,0,1,0,0,Mid,10,58.5
+24500,house,1448.98,5,4,3+,3,North-West,Sector 46,,3.55,0,1,0,0,Mid,10,41.5
+24845,house,1448.98,5,5,3+,3,South-East,Sector 46,,3.6,0,1,0,0,Mid,10,47.5
+20026,house,1547.99,5,4,3+,2,North-East,Sushant Lok Phase,,3.1,0,1,0,0,Mid,8,41.5
+28787,house,1650.05,3,3,3,2,North-West,Sushant Lok Phase,,4.75,0,0,0,0,Mid,16,20.0
+12551,house,2430.09,3,3,2,2,,Bissar,silverglades tarudhan valley golf resort,3.05,1,1,1,1,Mid,26,57.0
+30556,house,1799.97,4,4,3,2,North-East,Sector 26,dlf city phase,5.5,1,1,1,0,Mid,10,5.0
+31481,house,1350.02,3,2,3,2,North,Dlf Phase,dlf city plots phase,4.25,1,0,0,0,Old,6,0.0
+33333,house,1350.01,3,3,2,2,East,Sector 26,dlf city phase,4.5,1,1,0,0,Mid,13,16.0
+33129,house,981.01,3,3,3,2,West,Sector 26,dlf city phase,3.25,1,0,0,0,Old,14,13.0
+14815,house,2429.97,3,3,2,2,,Bissar,silverglades tarudhan valley golf resort,3.6,1,1,1,1,Mid,26,68.5
