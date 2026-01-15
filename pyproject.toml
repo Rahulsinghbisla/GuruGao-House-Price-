@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "category-encoders>=2.9.0",
+    "langchain>=1.2.3",
+    "langchain-openai>=1.1.7",
+    "load-dotenv>=0.1.0",
     "scikit-learn>=1.8.0",
     "streamlit>=1.52.2",
     "xgboost>=3.1.2",
